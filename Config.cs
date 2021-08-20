@@ -46,7 +46,7 @@ namespace EssentialBc
         [Description("라운드 시작 방송을 설정합니다.")]
         public string RoundStart { get; set; } = "라운드가 시작되었습니다.";
         
-        [Description("라운드 종료 방송을 설정합니다.")]
+        [Description("라운드 종료 방송을 설정합니다")]
         public string RoundEnd { get; set; } = "라운드가 종료되었습니다.";
         
         [Description("모든 발전기가 작동되었을때 방송됩니다.")]
