@@ -1,0 +1,861 @@
+﻿<Mappings><Entry OldName="EssentialBc.Config.&lt;IsEnabled&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.cc42724a7b3afb7a6dba09ad18ceebdd9" />
+<Entry OldName="EssentialBc.Config.&lt;WarheadStart&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.c2d2227332a4685a31b13866888eae8bb" />
+<Entry OldName="EssentialBc.Config.&lt;WarheadStop&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.c04e1101a435b0121c6ba92d4e6156ef2" />
+<Entry OldName="EssentialBc.Config.&lt;WarheadDetonated&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.cd95e18e0e08ca39dd36d76bc15ecb884" />
+<Entry OldName="EssentialBc.Config.&lt;MTFspawn&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.c4d130d5e82a1a22c9c506e532711036a" />
+<Entry OldName="EssentialBc.Config.&lt;CHAOSspawn&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.c2e9036694a479cf987156afc4ec87822" />
+<Entry OldName="EssentialBc.Config.&lt;SCPcontained&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.c4f2436dc25903d9138b91640b546e0c1" />
+<Entry OldName="EssentialBc.Config.&lt;PlayerJoin&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.c544e95c65dcf7b1e25e7a106c40999e7" />
+<Entry OldName="EssentialBc.Config.&lt;SCPLeft&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.cf55b0bb2a7da0cc4a869d100d2417074" />
+<Entry OldName="EssentialBc.Config.&lt;LczDecon_15&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.c56ef879fa7e77cec425ac78b86e42d03" />
+<Entry OldName="EssentialBc.Config.&lt;LczDecon_10&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.c8af3a52179e635e667a95c4f102ae055" />
+<Entry OldName="EssentialBc.Config.&lt;LczDecon_5&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.ccb2e4e4c7a81d8c8a7a84dde4567ce76" />
+<Entry OldName="EssentialBc.Config.&lt;LczDecon_1&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.c9114d861a55c6f9ff643a576629bd41f" />
+<Entry OldName="EssentialBc.Config.&lt;LczDecon_30s&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.c7cd63578566aeceafe1799bea6c4c3ec" />
+<Entry OldName="EssentialBc.Config.&lt;LczDecon&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.c20327468f2071260bfda8c99e5b9b9e7" />
+<Entry OldName="EssentialBc.Config.&lt;RoundStart&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.cbc014ed12de51086a3a75ce886897566" />
+<Entry OldName="EssentialBc.Config.&lt;RoundEnd&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.c5b0c8dda3de6120cfb55d14149ed2e8f" />
+<Entry OldName="EssentialBc.Config.&lt;AllGeneratorsActivated&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.c0afa60af9d315cd6df76835ba1faf4c0" />
+<Entry OldName="EssentialBc.Config.&lt;GeneratorActivated&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.cf2f0e32e032c831c450af9a7e6ca0a77" />
+<Entry OldName="EssentialBc.Config.&lt;PlayerLastRole&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.c9d14551c35494cd0e74806fd709ed393" />
+<Entry OldName="EssentialBc.Config.&lt;CuffedPlayerKilled&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.c5ca4021c812141a84b3e05fbfb7feb7d" />
+<Entry OldName="EssentialBc.Config.&lt;Scplist&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.c8c8234b44efb749d166919a6df9f9a9f" />
+<Entry OldName="EssentialBc.Config.&lt;TranslatedRoles&gt;k__BackingField" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.cb455d19f2e8c73849f2e4afaa41f7595" />
+<Entry OldName="EssentialBc.Config.TimedBroadcasts" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.cea404d098ca522e9765fb28b27e6a210" />
+<Entry OldName="EssentialBc.EventHandlers.plugin" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.c8a07c1f24578e7a1d526c42e5ed062c0" />
+<Entry OldName="EssentialBc.EventHandlers.coroutines" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.cebd2adc72c2cbb31277da4cffd6f929f" />
+<Entry OldName="EssentialBc.EventHandlers.SCPsList" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.c36f7a3149ea5ee2527c6fe24406a0cd2" />
+<Entry OldName="EssentialBc.Plugin.&lt;Name&gt;k__BackingField" NewName="A.cf80e651af543e2447b41185f5095fd53.cfd730d2d9bb07773794816c8e817f72b" />
+<Entry OldName="EssentialBc.Plugin.&lt;Author&gt;k__BackingField" NewName="A.cf80e651af543e2447b41185f5095fd53.ca5e702d376894c8aa5c6dc9648abfe26" />
+<Entry OldName="EssentialBc.Plugin.&lt;Prefix&gt;k__BackingField" NewName="A.cf80e651af543e2447b41185f5095fd53.c462e104c460638b3e5d92110a8d18972" />
+<Entry OldName="EssentialBc.Plugin.instance" NewName="A.cf80e651af543e2447b41185f5095fd53.ca2a534b8b657ce39de5fd47b8864b8ec" />
+<Entry OldName="EssentialBc.Plugin.EventHandlers" NewName="A.cf80e651af543e2447b41185f5095fd53.c0398feb1c0e3f5817f026b81d243609a" />
+<Entry OldName="EssentialBc.EventHandlers.&lt;TimedBroadcast&gt;d__20.&lt;&gt;1__state" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.cbb1139c1ad01d8aa267587987cf3337a.cd265d980aef5fd1f31e4cea2408546ed" />
+<Entry OldName="EssentialBc.EventHandlers.&lt;TimedBroadcast&gt;d__20.&lt;&gt;2__current" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.cbb1139c1ad01d8aa267587987cf3337a.c2f6853ccb5d1d73536d9a4e86c04d055" />
+<Entry OldName="EssentialBc.EventHandlers.&lt;TimedBroadcast&gt;d__20.&lt;&gt;4__this" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.cbb1139c1ad01d8aa267587987cf3337a.cde1fc05d34577d6480c29debe1b0cb19" />
+<Entry OldName="EssentialBc.Config..ctor()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7..ctor()" />
+<Entry OldName="EssentialBc.Config.get_IsEnabled()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_IsEnabled()" />
+<Entry OldName="EssentialBc.Config.set_IsEnabled(Boolean value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_IsEnabled(Boolean value)" />
+<Entry OldName="EssentialBc.Config.get_WarheadStart()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_WarheadStart()" />
+<Entry OldName="EssentialBc.Config.set_WarheadStart(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_WarheadStart(String value)" />
+<Entry OldName="EssentialBc.Config.get_WarheadStop()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_WarheadStop()" />
+<Entry OldName="EssentialBc.Config.set_WarheadStop(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_WarheadStop(String value)" />
+<Entry OldName="EssentialBc.Config.get_WarheadDetonated()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_WarheadDetonated()" />
+<Entry OldName="EssentialBc.Config.set_WarheadDetonated(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_WarheadDetonated(String value)" />
+<Entry OldName="EssentialBc.Config.get_MTFspawn()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_MTFspawn()" />
+<Entry OldName="EssentialBc.Config.set_MTFspawn(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_MTFspawn(String value)" />
+<Entry OldName="EssentialBc.Config.get_CHAOSspawn()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_CHAOSspawn()" />
+<Entry OldName="EssentialBc.Config.set_CHAOSspawn(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_CHAOSspawn(String value)" />
+<Entry OldName="EssentialBc.Config.get_SCPcontained()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_SCPcontained()" />
+<Entry OldName="EssentialBc.Config.set_SCPcontained(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_SCPcontained(String value)" />
+<Entry OldName="EssentialBc.Config.get_PlayerJoin()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_PlayerJoin()" />
+<Entry OldName="EssentialBc.Config.set_PlayerJoin(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_PlayerJoin(String value)" />
+<Entry OldName="EssentialBc.Config.get_SCPLeft()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_SCPLeft()" />
+<Entry OldName="EssentialBc.Config.set_SCPLeft(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_SCPLeft(String value)" />
+<Entry OldName="EssentialBc.Config.get_LczDecon_15()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_15()" />
+<Entry OldName="EssentialBc.Config.set_LczDecon_15(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_LczDecon_15(String value)" />
+<Entry OldName="EssentialBc.Config.get_LczDecon_10()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_10()" />
+<Entry OldName="EssentialBc.Config.set_LczDecon_10(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_LczDecon_10(String value)" />
+<Entry OldName="EssentialBc.Config.get_LczDecon_5()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_5()" />
+<Entry OldName="EssentialBc.Config.set_LczDecon_5(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_LczDecon_5(String value)" />
+<Entry OldName="EssentialBc.Config.get_LczDecon_1()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_1()" />
+<Entry OldName="EssentialBc.Config.set_LczDecon_1(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_LczDecon_1(String value)" />
+<Entry OldName="EssentialBc.Config.get_LczDecon_30s()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_30s()" />
+<Entry OldName="EssentialBc.Config.set_LczDecon_30s(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_LczDecon_30s(String value)" />
+<Entry OldName="EssentialBc.Config.get_LczDecon()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon()" />
+<Entry OldName="EssentialBc.Config.set_LczDecon(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_LczDecon(String value)" />
+<Entry OldName="EssentialBc.Config.get_RoundStart()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_RoundStart()" />
+<Entry OldName="EssentialBc.Config.set_RoundStart(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_RoundStart(String value)" />
+<Entry OldName="EssentialBc.Config.get_RoundEnd()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_RoundEnd()" />
+<Entry OldName="EssentialBc.Config.set_RoundEnd(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_RoundEnd(String value)" />
+<Entry OldName="EssentialBc.Config.get_AllGeneratorsActivated()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_AllGeneratorsActivated()" />
+<Entry OldName="EssentialBc.Config.set_AllGeneratorsActivated(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_AllGeneratorsActivated(String value)" />
+<Entry OldName="EssentialBc.Config.get_GeneratorActivated()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_GeneratorActivated()" />
+<Entry OldName="EssentialBc.Config.set_GeneratorActivated(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_GeneratorActivated(String value)" />
+<Entry OldName="EssentialBc.Config.get_PlayerLastRole()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_PlayerLastRole()" />
+<Entry OldName="EssentialBc.Config.set_PlayerLastRole(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_PlayerLastRole(String value)" />
+<Entry OldName="EssentialBc.Config.get_CuffedPlayerKilled()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_CuffedPlayerKilled()" />
+<Entry OldName="EssentialBc.Config.set_CuffedPlayerKilled(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_CuffedPlayerKilled(String value)" />
+<Entry OldName="EssentialBc.Config.get_Scplist()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_Scplist()" />
+<Entry OldName="EssentialBc.Config.set_Scplist(String value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_Scplist(String value)" />
+<Entry OldName="EssentialBc.Config.get_TranslatedRoles()" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.get_TranslatedRoles()" />
+<Entry OldName="EssentialBc.Config.set_TranslatedRoles(Dictionary`2 value)" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7.set_TranslatedRoles(Dictionary`2 value)" />
+<Entry OldName="EssentialBc.EventHandlers..ctor(Plugin plugin)" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30..ctor(cf80e651af543e2447b41185f5095fd53 )" />
+<Entry OldName="EssentialBc.EventHandlers..cctor()" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30..cctor()" />
+<Entry OldName="EssentialBc.EventHandlers.OnWarheadStarting(StartingEventArgs ev)" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.c03d7965024825afa35ab3fce5522252a(StartingEventArgs )" />
+<Entry OldName="EssentialBc.EventHandlers.OnWarheadStopping(StoppingEventArgs ev)" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.c12926b1f1d58153bd69a100bdcff104a(StoppingEventArgs )" />
+<Entry OldName="EssentialBc.EventHandlers.OnWarheadDetonated()" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.c59ed57ebe9498f86b1a32f7be8ab55ee()" />
+<Entry OldName="EssentialBc.EventHandlers.OnMTFAnnounce(AnnouncingNtfEntranceEventArgs ev)" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.ce5d2af891d941f45c1e53e0d017af14b(AnnouncingNtfEntranceEventArgs )" />
+<Entry OldName="EssentialBc.EventHandlers.OnRespawningTeam(RespawningTeamEventArgs ev)" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.c2154d3c7493946e6e1a4d8b41f491a13(RespawningTeamEventArgs )" />
+<Entry OldName="EssentialBc.EventHandlers.OnContainingSCP(AnnouncingScpTerminationEventArgs ev)" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.c2566d29d28284677e6f9f55917ffb7a6(AnnouncingScpTerminationEventArgs )" />
+<Entry OldName="EssentialBc.EventHandlers.OnDied(DiedEventArgs ev)" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.c65229117eddef4c7e51f3df3eb0e5bc3(DiedEventArgs )" />
+<Entry OldName="EssentialBc.EventHandlers.OnVerified(VerifiedEventArgs ev)" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.ce20b399f9a6348d1a247cc0c61e50bf6(VerifiedEventArgs )" />
+<Entry OldName="EssentialBc.EventHandlers.OnLeft(LeftEventArgs ev)" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.c808cefbab711e98c636aa5e6f884fe70(LeftEventArgs )" />
+<Entry OldName="EssentialBc.EventHandlers.OnAnnouncingDecontamination(AnnouncingDecontaminationEventArgs ev)" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.cd75f6747085d2c3e3f0de7aee65a7906(AnnouncingDecontaminationEventArgs )" />
+<Entry OldName="EssentialBc.EventHandlers.OnDecontamination(DecontaminatingEventArgs ev)" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.c71b8c603114d2de07cc14ccdd5f89d2b(DecontaminatingEventArgs )" />
+<Entry OldName="EssentialBc.EventHandlers.OnRoundStart()" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.c7e16f873193dc6e9b8f5624ebcd253ad()" />
+<Entry OldName="EssentialBc.EventHandlers.OnRoundEnded(RoundEndedEventArgs ev)" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.ceef1b68d27a3e73e4100e30ea9dde6fd(RoundEndedEventArgs )" />
+<Entry OldName="EssentialBc.EventHandlers.OnGeneratorActivated(GeneratorActivatedEventArgs ev)" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.cae59e643817ee36009d725e3168e017b(GeneratorActivatedEventArgs )" />
+<Entry OldName="EssentialBc.EventHandlers.OnSpawning(SpawningEventArgs ev)" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.c8272e7692ac5631cb858cd715f650287(SpawningEventArgs )" />
+<Entry OldName="EssentialBc.EventHandlers.OnRestarting()" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.cbb540e5d3173d6b0184fccf953ac7400()" />
+<Entry OldName="EssentialBc.EventHandlers.TimedBroadcast()" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.ccd810de4e1be8733a9e65627ccc6d8a3()" />
+<Entry OldName="EssentialBc.Plugin..ctor()" NewName="A.cf80e651af543e2447b41185f5095fd53..ctor()" />
+<Entry OldName="EssentialBc.Plugin.get_Name()" NewName="A.cf80e651af543e2447b41185f5095fd53.get_Name()" />
+<Entry OldName="EssentialBc.Plugin.get_Author()" NewName="A.cf80e651af543e2447b41185f5095fd53.get_Author()" />
+<Entry OldName="EssentialBc.Plugin.get_Prefix()" NewName="A.cf80e651af543e2447b41185f5095fd53.get_Prefix()" />
+<Entry OldName="EssentialBc.Plugin.OnEnabled()" NewName="A.cf80e651af543e2447b41185f5095fd53.OnEnabled()" />
+<Entry OldName="EssentialBc.Plugin.OnDisabled()" NewName="A.cf80e651af543e2447b41185f5095fd53.OnDisabled()" />
+<Entry OldName="EssentialBc.EventHandlers.&lt;TimedBroadcast&gt;d__20..ctor(Int32 &lt;&gt;1__state)" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.cbb1139c1ad01d8aa267587987cf3337a..ctor(Int32 )" />
+<Entry OldName="EssentialBc.EventHandlers.&lt;TimedBroadcast&gt;d__20.System.IDisposable.Dispose()" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.cbb1139c1ad01d8aa267587987cf3337a.c0da42e9d6f8ed33ea64aff6fdcc095dc()" />
+<Entry OldName="EssentialBc.EventHandlers.&lt;TimedBroadcast&gt;d__20.MoveNext()" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.cbb1139c1ad01d8aa267587987cf3337a.MoveNext()" />
+<Entry OldName="EssentialBc.EventHandlers.&lt;TimedBroadcast&gt;d__20.System.Collections.Generic.IEnumerator&lt;System.Single&gt;.get_Current()" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.cbb1139c1ad01d8aa267587987cf3337a.System.Collections.Generic.IEnumerator&lt;System.Single&gt;.get_Current()" />
+<Entry OldName="EssentialBc.EventHandlers.&lt;TimedBroadcast&gt;d__20.System.Collections.IEnumerator.Reset()" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.cbb1139c1ad01d8aa267587987cf3337a.c80ef83e51312930807f0e89d434253f4()" />
+<Entry OldName="EssentialBc.EventHandlers.&lt;TimedBroadcast&gt;d__20.System.Collections.IEnumerator.get_Current()" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30.cbb1139c1ad01d8aa267587987cf3337a.System.Collections.IEnumerator.get_Current()" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;System.String&gt;.Add(!0 )" NewName="A.c5fb4b4b675a97232c8fa96dd0f57ebb8..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;System.String&gt;.Add(!0 )" NewName="A.c5fb4b4b675a97232c8fa96dd0f57ebb8..cctor()" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;System.String&gt;.Add(!0 )" NewName="A.c5fb4b4b675a97232c8fa96dd0f57ebb8.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;System.String&gt;.Add(!0 )" NewName="A.c5fb4b4b675a97232c8fa96dd0f57ebb8.c83dae34efd5c9e4827f854b99b0f8ec5(Object , String )" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;RoleType,System.String&gt;.Add(!0 , !1 )" NewName="A.cb700a2d80edd802eb55255fa3b16196f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;RoleType,System.String&gt;.Add(!0 , !1 )" NewName="A.cb700a2d80edd802eb55255fa3b16196f..cctor()" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;RoleType,System.String&gt;.Add(!0 , !1 )" NewName="A.cb700a2d80edd802eb55255fa3b16196f.Invoke(Object , RoleType , String )" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;RoleType,System.String&gt;.Add(!0 , !1 )" NewName="A.cb700a2d80edd802eb55255fa3b16196f.c83dae34efd5c9e4827f854b99b0f8ec5(Object , RoleType , String )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;MEC.CoroutineHandle&gt;..ctor()" NewName="A.cfbb636c71b264738d45b05a94cee0193..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;MEC.CoroutineHandle&gt;..ctor()" NewName="A.cfbb636c71b264738d45b05a94cee0193..cctor()" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;MEC.CoroutineHandle&gt;..ctor()" NewName="A.cfbb636c71b264738d45b05a94cee0193.Invoke()" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;MEC.CoroutineHandle&gt;..ctor()" NewName="A.cfbb636c71b264738d45b05a94cee0193.c7b8ec46dc27282504228334591fdfe7a()" />
+<Entry OldName="Proxy_Exiled.API.Features.Map.Broadcast(UInt16 , String , BroadcastFlags )" NewName="A.c9038ef864c1bb605486063f8cc446d66..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.API.Features.Map.Broadcast(UInt16 , String , BroadcastFlags )" NewName="A.c9038ef864c1bb605486063f8cc446d66..cctor()" />
+<Entry OldName="Proxy_Exiled.API.Features.Map.Broadcast(UInt16 , String , BroadcastFlags )" NewName="A.c9038ef864c1bb605486063f8cc446d66.Invoke(UInt16 , String , BroadcastFlags )" />
+<Entry OldName="Proxy_Exiled.API.Features.Map.Broadcast(UInt16 , String , BroadcastFlags )" NewName="A.c9038ef864c1bb605486063f8cc446d66.c7b8ec46dc27282504228334591fdfe7a(UInt16 , String , BroadcastFlags )" />
+<Entry OldName="Proxy_System.String.Replace(String , String )" NewName="A.cc3b538115fe0ff95e4d6faed79780d9e..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Replace(String , String )" NewName="A.cc3b538115fe0ff95e4d6faed79780d9e..cctor()" />
+<Entry OldName="Proxy_System.String.Replace(String , String )" NewName="A.cc3b538115fe0ff95e4d6faed79780d9e.Invoke(Object , String , String )" />
+<Entry OldName="Proxy_System.String.Replace(String , String )" NewName="A.cc3b538115fe0ff95e4d6faed79780d9e.c83dae34efd5c9e4827f854b99b0f8ec5(Object , String , String )" />
+<Entry OldName="Proxy_System.Single.ToString()" NewName="A.c761ad95a99d26718a259038fb9516099..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Single.ToString()" NewName="A.c761ad95a99d26718a259038fb9516099..cctor()" />
+<Entry OldName="Proxy_System.Single.ToString()" NewName="A.c761ad95a99d26718a259038fb9516099.Invoke(Single&amp; )" />
+<Entry OldName="Proxy_System.Single.ToString()" NewName="A.c761ad95a99d26718a259038fb9516099.c7b8ec46dc27282504228334591fdfe7a(Single&amp; )" />
+<Entry OldName="Proxy_Exiled.API.Features.Warhead.get_RealDetonationTimer()" NewName="A.c7fdafd320cb2e9a49749ca67232b473e..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.API.Features.Warhead.get_RealDetonationTimer()" NewName="A.c7fdafd320cb2e9a49749ca67232b473e..cctor()" />
+<Entry OldName="Proxy_Exiled.API.Features.Warhead.get_RealDetonationTimer()" NewName="A.c7fdafd320cb2e9a49749ca67232b473e.Invoke()" />
+<Entry OldName="Proxy_Exiled.API.Features.Warhead.get_RealDetonationTimer()" NewName="A.c7fdafd320cb2e9a49749ca67232b473e.c7b8ec46dc27282504228334591fdfe7a()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_WarheadStart()" NewName="A.cb01cafc3425f2bfbb9b300e6e421db50..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_WarheadStart()" NewName="A.cb01cafc3425f2bfbb9b300e6e421db50..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_WarheadStart()" NewName="A.cb01cafc3425f2bfbb9b300e6e421db50.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_WarheadStart()" NewName="A.cb01cafc3425f2bfbb9b300e6e421db50.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_Exiled.API.Features.Plugin`1&lt;A.c4da6745eb586b6e2fea4d032ed6298a7&gt;.get_Config()" NewName="A.c4fff6f570a75594b3cc97bbf592048af..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.API.Features.Plugin`1&lt;A.c4da6745eb586b6e2fea4d032ed6298a7&gt;.get_Config()" NewName="A.c4fff6f570a75594b3cc97bbf592048af..cctor()" />
+<Entry OldName="Proxy_Exiled.API.Features.Plugin`1&lt;A.c4da6745eb586b6e2fea4d032ed6298a7&gt;.get_Config()" NewName="A.c4fff6f570a75594b3cc97bbf592048af.Invoke(Object )" />
+<Entry OldName="Proxy_Exiled.API.Features.Plugin`1&lt;A.c4da6745eb586b6e2fea4d032ed6298a7&gt;.get_Config()" NewName="A.c4fff6f570a75594b3cc97bbf592048af.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_WarheadStop()" NewName="A.ce9fd856a205f9d30dd74122c48e2edbd..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_WarheadStop()" NewName="A.ce9fd856a205f9d30dd74122c48e2edbd..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_WarheadStop()" NewName="A.ce9fd856a205f9d30dd74122c48e2edbd.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_WarheadStop()" NewName="A.ce9fd856a205f9d30dd74122c48e2edbd.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_WarheadDetonated()" NewName="A.c27ad2e8f8d9a00467f3777aed26bd6b4..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_WarheadDetonated()" NewName="A.c27ad2e8f8d9a00467f3777aed26bd6b4..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_WarheadDetonated()" NewName="A.c27ad2e8f8d9a00467f3777aed26bd6b4.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_WarheadDetonated()" NewName="A.c27ad2e8f8d9a00467f3777aed26bd6b4.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.Int32.ToString()" NewName="A.ca81ed7de5535e4ffb865de4483a94d0f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Int32.ToString()" NewName="A.ca81ed7de5535e4ffb865de4483a94d0f..cctor()" />
+<Entry OldName="Proxy_System.Int32.ToString()" NewName="A.ca81ed7de5535e4ffb865de4483a94d0f.Invoke(Int32&amp; )" />
+<Entry OldName="Proxy_System.Int32.ToString()" NewName="A.ca81ed7de5535e4ffb865de4483a94d0f.c7b8ec46dc27282504228334591fdfe7a(Int32&amp; )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.Get(Team )" NewName="A.c3dfebdc2cfad3d4b4c3bfd54e2234d2f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.Get(Team )" NewName="A.c3dfebdc2cfad3d4b4c3bfd54e2234d2f..cctor()" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.Get(Team )" NewName="A.c3dfebdc2cfad3d4b4c3bfd54e2234d2f.Invoke(Team )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.Get(Team )" NewName="A.c3dfebdc2cfad3d4b4c3bfd54e2234d2f.c7b8ec46dc27282504228334591fdfe7a(Team )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.AnnouncingNtfEntranceEventArgs.get_UnitNumber()" NewName="A.c891eb5a1d231a554395ba611737fe7f8..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.AnnouncingNtfEntranceEventArgs.get_UnitNumber()" NewName="A.c891eb5a1d231a554395ba611737fe7f8..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.AnnouncingNtfEntranceEventArgs.get_UnitNumber()" NewName="A.c891eb5a1d231a554395ba611737fe7f8.Invoke(Object )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.AnnouncingNtfEntranceEventArgs.get_UnitNumber()" NewName="A.c891eb5a1d231a554395ba611737fe7f8.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.AnnouncingNtfEntranceEventArgs.get_UnitName()" NewName="A.c8bfa39b88b8cb9e5cd03edb442253294..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.AnnouncingNtfEntranceEventArgs.get_UnitName()" NewName="A.c8bfa39b88b8cb9e5cd03edb442253294..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.AnnouncingNtfEntranceEventArgs.get_UnitName()" NewName="A.c8bfa39b88b8cb9e5cd03edb442253294.Invoke(Object )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.AnnouncingNtfEntranceEventArgs.get_UnitName()" NewName="A.c8bfa39b88b8cb9e5cd03edb442253294.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_MTFspawn()" NewName="A.c5b3cccef66e736cb9f476d4febbfde39..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_MTFspawn()" NewName="A.c5b3cccef66e736cb9f476d4febbfde39..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_MTFspawn()" NewName="A.c5b3cccef66e736cb9f476d4febbfde39.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_MTFspawn()" NewName="A.c5b3cccef66e736cb9f476d4febbfde39.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.IDisposable.Dispose()" NewName="A.cbb992201172e2b2ea3c6dd613df3b463..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IDisposable.Dispose()" NewName="A.cbb992201172e2b2ea3c6dd613df3b463..cctor()" />
+<Entry OldName="Proxy_System.IDisposable.Dispose()" NewName="A.cbb992201172e2b2ea3c6dd613df3b463.Invoke(Object )" />
+<Entry OldName="Proxy_System.IDisposable.Dispose()" NewName="A.cbb992201172e2b2ea3c6dd613df3b463.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.Collections.IEnumerator.MoveNext()" NewName="A.c780662c55d0c5ce80c8924d5fec90363..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.IEnumerator.MoveNext()" NewName="A.c780662c55d0c5ce80c8924d5fec90363..cctor()" />
+<Entry OldName="Proxy_System.Collections.IEnumerator.MoveNext()" NewName="A.c780662c55d0c5ce80c8924d5fec90363.Invoke(Object )" />
+<Entry OldName="Proxy_System.Collections.IEnumerator.MoveNext()" NewName="A.c780662c55d0c5ce80c8924d5fec90363.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.Broadcast(UInt16 , String , BroadcastFlags )" NewName="A.ce59f3e74231e84946a2f621934cdfe35..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.Broadcast(UInt16 , String , BroadcastFlags )" NewName="A.ce59f3e74231e84946a2f621934cdfe35..cctor()" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.Broadcast(UInt16 , String , BroadcastFlags )" NewName="A.ce59f3e74231e84946a2f621934cdfe35.Invoke(Object , UInt16 , String , BroadcastFlags )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.Broadcast(UInt16 , String , BroadcastFlags )" NewName="A.ce59f3e74231e84946a2f621934cdfe35.c83dae34efd5c9e4827f854b99b0f8ec5(Object , UInt16 , String , BroadcastFlags )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_CHAOSspawn()" NewName="A.c6bdcc2893c440c391e920d5480e9d792..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_CHAOSspawn()" NewName="A.c6bdcc2893c440c391e920d5480e9d792..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_CHAOSspawn()" NewName="A.c6bdcc2893c440c391e920d5480e9d792.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_CHAOSspawn()" NewName="A.c6bdcc2893c440c391e920d5480e9d792.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.Collections.Generic.IEnumerator`1&lt;Exiled.API.Features.Player&gt;.get_Current()" NewName="A.c0129ed636213df35cb63b160808ca05e..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Generic.IEnumerator`1&lt;Exiled.API.Features.Player&gt;.get_Current()" NewName="A.c0129ed636213df35cb63b160808ca05e..cctor()" />
+<Entry OldName="Proxy_System.Collections.Generic.IEnumerator`1&lt;Exiled.API.Features.Player&gt;.get_Current()" NewName="A.c0129ed636213df35cb63b160808ca05e.Invoke(Object )" />
+<Entry OldName="Proxy_System.Collections.Generic.IEnumerator`1&lt;Exiled.API.Features.Player&gt;.get_Current()" NewName="A.c0129ed636213df35cb63b160808ca05e.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.Collections.Generic.IEnumerable`1&lt;Exiled.API.Features.Player&gt;.GetEnumerator()" NewName="A.c43c8039aa1d457e0265450d52cc08cc0..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Generic.IEnumerable`1&lt;Exiled.API.Features.Player&gt;.GetEnumerator()" NewName="A.c43c8039aa1d457e0265450d52cc08cc0..cctor()" />
+<Entry OldName="Proxy_System.Collections.Generic.IEnumerable`1&lt;Exiled.API.Features.Player&gt;.GetEnumerator()" NewName="A.c43c8039aa1d457e0265450d52cc08cc0.Invoke(Object )" />
+<Entry OldName="Proxy_System.Collections.Generic.IEnumerable`1&lt;Exiled.API.Features.Player&gt;.GetEnumerator()" NewName="A.c43c8039aa1d457e0265450d52cc08cc0.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.RespawningTeamEventArgs.get_NextKnownTeam()" NewName="A.cc1c867f28977cff8d3fcdace87cf4f6f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.RespawningTeamEventArgs.get_NextKnownTeam()" NewName="A.cc1c867f28977cff8d3fcdace87cf4f6f..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.RespawningTeamEventArgs.get_NextKnownTeam()" NewName="A.cc1c867f28977cff8d3fcdace87cf4f6f.Invoke(Object )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.RespawningTeamEventArgs.get_NextKnownTeam()" NewName="A.cc1c867f28977cff8d3fcdace87cf4f6f.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_SCPcontained()" NewName="A.cd1757ccd6f5f3142ec505feb97596878..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_SCPcontained()" NewName="A.cd1757ccd6f5f3142ec505feb97596878..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_SCPcontained()" NewName="A.cd1757ccd6f5f3142ec505feb97596878.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_SCPcontained()" NewName="A.cd1757ccd6f5f3142ec505feb97596878.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;RoleType,System.String&gt;.get_Item(!0 )" NewName="A.cf66022f926c5df42f25b06adcf4b2b94..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;RoleType,System.String&gt;.get_Item(!0 )" NewName="A.cf66022f926c5df42f25b06adcf4b2b94..cctor()" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;RoleType,System.String&gt;.get_Item(!0 )" NewName="A.cf66022f926c5df42f25b06adcf4b2b94.Invoke(Object , RoleType )" />
+<Entry OldName="Proxy_System.Collections.Generic.Dictionary`2&lt;RoleType,System.String&gt;.get_Item(!0 )" NewName="A.cf66022f926c5df42f25b06adcf4b2b94.c83dae34efd5c9e4827f854b99b0f8ec5(Object , RoleType )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.AnnouncingScpTerminationEventArgs.get_Role()" NewName="A.ccd8bd9f785bc84ebf77e065ffee3c3c1..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.AnnouncingScpTerminationEventArgs.get_Role()" NewName="A.ccd8bd9f785bc84ebf77e065ffee3c3c1..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.AnnouncingScpTerminationEventArgs.get_Role()" NewName="A.ccd8bd9f785bc84ebf77e065ffee3c3c1.Invoke(Object )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.AnnouncingScpTerminationEventArgs.get_Role()" NewName="A.ccd8bd9f785bc84ebf77e065ffee3c3c1.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_TranslatedRoles()" NewName="A.c813a445950406211c50cef5733c451bf..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_TranslatedRoles()" NewName="A.c813a445950406211c50cef5733c451bf..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_TranslatedRoles()" NewName="A.c813a445950406211c50cef5733c451bf.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_TranslatedRoles()" NewName="A.c813a445950406211c50cef5733c451bf.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_Role()" NewName="A.c19b4a92eefab94e12cb6f0fa698f1a80..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_Role()" NewName="A.c19b4a92eefab94e12cb6f0fa698f1a80..cctor()" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_Role()" NewName="A.c19b4a92eefab94e12cb6f0fa698f1a80.Invoke(Object )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_Role()" NewName="A.c19b4a92eefab94e12cb6f0fa698f1a80.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.DiedEventArgs.get_Killer()" NewName="A.c954b87db2390efb200921426813270ec..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.DiedEventArgs.get_Killer()" NewName="A.c954b87db2390efb200921426813270ec..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.DiedEventArgs.get_Killer()" NewName="A.c954b87db2390efb200921426813270ec.Invoke(Object )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.DiedEventArgs.get_Killer()" NewName="A.c954b87db2390efb200921426813270ec.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_UserId()" NewName="A.ca3518bc89c36f5c658c0701cf5dfa878..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_UserId()" NewName="A.ca3518bc89c36f5c658c0701cf5dfa878..cctor()" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_UserId()" NewName="A.ca3518bc89c36f5c658c0701cf5dfa878.Invoke(Object )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_UserId()" NewName="A.ca3518bc89c36f5c658c0701cf5dfa878.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_Nickname()" NewName="A.c792749840e328c77ed7816f232e74685..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_Nickname()" NewName="A.c792749840e328c77ed7816f232e74685..cctor()" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_Nickname()" NewName="A.c792749840e328c77ed7816f232e74685.Invoke(Object )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_Nickname()" NewName="A.c792749840e328c77ed7816f232e74685.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.DiedEventArgs.get_Target()" NewName="A.ce5a858e9fbd8218b48bdee307186cbee..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.DiedEventArgs.get_Target()" NewName="A.ce5a858e9fbd8218b48bdee307186cbee..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.DiedEventArgs.get_Target()" NewName="A.ce5a858e9fbd8218b48bdee307186cbee.Invoke(Object )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.DiedEventArgs.get_Target()" NewName="A.ce5a858e9fbd8218b48bdee307186cbee.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_CuffedPlayerKilled()" NewName="A.c808dbe2110ab14dc1a74fd0147cf5fad..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_CuffedPlayerKilled()" NewName="A.c808dbe2110ab14dc1a74fd0147cf5fad..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_CuffedPlayerKilled()" NewName="A.c808dbe2110ab14dc1a74fd0147cf5fad.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_CuffedPlayerKilled()" NewName="A.c808dbe2110ab14dc1a74fd0147cf5fad.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_Team()" NewName="A.c676ab71c4d3eef28ef9c2c969aee591b..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_Team()" NewName="A.c676ab71c4d3eef28ef9c2c969aee591b..cctor()" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_Team()" NewName="A.c676ab71c4d3eef28ef9c2c969aee591b.Invoke(Object )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_Team()" NewName="A.c676ab71c4d3eef28ef9c2c969aee591b.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_IsCuffed()" NewName="A.c34aaa8c016ba84e8b808cd759cc3b139..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_IsCuffed()" NewName="A.c34aaa8c016ba84e8b808cd759cc3b139..cctor()" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_IsCuffed()" NewName="A.c34aaa8c016ba84e8b808cd759cc3b139.Invoke(Object )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_IsCuffed()" NewName="A.c34aaa8c016ba84e8b808cd759cc3b139.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.VerifiedEventArgs.get_Player()" NewName="A.c122a37654ce6d0fdd336cd8300900185..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.VerifiedEventArgs.get_Player()" NewName="A.c122a37654ce6d0fdd336cd8300900185..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.VerifiedEventArgs.get_Player()" NewName="A.c122a37654ce6d0fdd336cd8300900185.Invoke(Object )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.VerifiedEventArgs.get_Player()" NewName="A.c122a37654ce6d0fdd336cd8300900185.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_PlayerJoin()" NewName="A.ccef34d76aa97a9e1e9e13534f80851ae..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_PlayerJoin()" NewName="A.ccef34d76aa97a9e1e9e13534f80851ae..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_PlayerJoin()" NewName="A.ccef34d76aa97a9e1e9e13534f80851ae.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_PlayerJoin()" NewName="A.ccef34d76aa97a9e1e9e13534f80851ae.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.SendConsoleMessage(String , String )" NewName="A.c9552db06b633d9ee9782c40072c50891..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.SendConsoleMessage(String , String )" NewName="A.c9552db06b633d9ee9782c40072c50891..cctor()" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.SendConsoleMessage(String , String )" NewName="A.c9552db06b633d9ee9782c40072c50891.Invoke(Object , String , String )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.SendConsoleMessage(String , String )" NewName="A.c9552db06b633d9ee9782c40072c50891.c83dae34efd5c9e4827f854b99b0f8ec5(Object , String , String )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.JoinedEventArgs.get_Player()" NewName="A.c0e4e3596188ff5f5727640da9949e42c..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.JoinedEventArgs.get_Player()" NewName="A.c0e4e3596188ff5f5727640da9949e42c..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.JoinedEventArgs.get_Player()" NewName="A.c0e4e3596188ff5f5727640da9949e42c.Invoke(Object )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.JoinedEventArgs.get_Player()" NewName="A.c0e4e3596188ff5f5727640da9949e42c.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_SCPLeft()" NewName="A.c98debbaea431e4501e4ec1444c82dcb1..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_SCPLeft()" NewName="A.c98debbaea431e4501e4ec1444c82dcb1..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_SCPLeft()" NewName="A.c98debbaea431e4501e4ec1444c82dcb1.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_SCPLeft()" NewName="A.c98debbaea431e4501e4ec1444c82dcb1.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_30s()" NewName="A.cf7b9f5a2ffb7114074dc3a169ee9d1b8..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_30s()" NewName="A.cf7b9f5a2ffb7114074dc3a169ee9d1b8..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_30s()" NewName="A.cf7b9f5a2ffb7114074dc3a169ee9d1b8.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_30s()" NewName="A.cf7b9f5a2ffb7114074dc3a169ee9d1b8.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_1()" NewName="A.cc177239aa3a404abae40ab767178815d..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_1()" NewName="A.cc177239aa3a404abae40ab767178815d..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_1()" NewName="A.cc177239aa3a404abae40ab767178815d.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_1()" NewName="A.cc177239aa3a404abae40ab767178815d.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_5()" NewName="A.cc151983454c65204b5f4f06ef3af3849..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_5()" NewName="A.cc151983454c65204b5f4f06ef3af3849..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_5()" NewName="A.cc151983454c65204b5f4f06ef3af3849.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_5()" NewName="A.cc151983454c65204b5f4f06ef3af3849.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_10()" NewName="A.c2ee0e79408de48cfdb7e13f2cfdb3819..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_10()" NewName="A.c2ee0e79408de48cfdb7e13f2cfdb3819..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_10()" NewName="A.c2ee0e79408de48cfdb7e13f2cfdb3819.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_10()" NewName="A.c2ee0e79408de48cfdb7e13f2cfdb3819.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_15()" NewName="A.cb4af7aaf84555b15a49fb90e68cb44f2..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_15()" NewName="A.cb4af7aaf84555b15a49fb90e68cb44f2..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_15()" NewName="A.cb4af7aaf84555b15a49fb90e68cb44f2.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon_15()" NewName="A.cb4af7aaf84555b15a49fb90e68cb44f2.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.AnnouncingDecontaminationEventArgs.get_Id()" NewName="A.cc90a3d92caf30296c257070b3d763ee9..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.AnnouncingDecontaminationEventArgs.get_Id()" NewName="A.cc90a3d92caf30296c257070b3d763ee9..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.AnnouncingDecontaminationEventArgs.get_Id()" NewName="A.cc90a3d92caf30296c257070b3d763ee9.Invoke(Object )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.AnnouncingDecontaminationEventArgs.get_Id()" NewName="A.cc90a3d92caf30296c257070b3d763ee9.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon()" NewName="A.c16014c7d8763e80c67a05f574562a0b7..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon()" NewName="A.c16014c7d8763e80c67a05f574562a0b7..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon()" NewName="A.c16014c7d8763e80c67a05f574562a0b7.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_LczDecon()" NewName="A.c16014c7d8763e80c67a05f574562a0b7.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;MEC.CoroutineHandle&gt;.Add(!0 )" NewName="A.c650cb927116caaa13a44efbd281c8b1d..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;MEC.CoroutineHandle&gt;.Add(!0 )" NewName="A.c650cb927116caaa13a44efbd281c8b1d..cctor()" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;MEC.CoroutineHandle&gt;.Add(!0 )" NewName="A.c650cb927116caaa13a44efbd281c8b1d.Invoke(Object , CoroutineHandle )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;MEC.CoroutineHandle&gt;.Add(!0 )" NewName="A.c650cb927116caaa13a44efbd281c8b1d.c83dae34efd5c9e4827f854b99b0f8ec5(Object , CoroutineHandle )" />
+<Entry OldName="Proxy_MEC.Timing.RunCoroutine(IEnumerator`1 )" NewName="A.cdc3da05610f4fef0b12a57341a523e1b..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_MEC.Timing.RunCoroutine(IEnumerator`1 )" NewName="A.cdc3da05610f4fef0b12a57341a523e1b..cctor()" />
+<Entry OldName="Proxy_MEC.Timing.RunCoroutine(IEnumerator`1 )" NewName="A.cdc3da05610f4fef0b12a57341a523e1b.Invoke(IEnumerator`1 )" />
+<Entry OldName="Proxy_MEC.Timing.RunCoroutine(IEnumerator`1 )" NewName="A.cdc3da05610f4fef0b12a57341a523e1b.c7b8ec46dc27282504228334591fdfe7a(IEnumerator`1 )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_RoundStart()" NewName="A.c72c8345fc1525bb53bd67523016380ae..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_RoundStart()" NewName="A.c72c8345fc1525bb53bd67523016380ae..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_RoundStart()" NewName="A.c72c8345fc1525bb53bd67523016380ae.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_RoundStart()" NewName="A.c72c8345fc1525bb53bd67523016380ae.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_RoundEnd()" NewName="A.cf8fed6c00e6683259a3b556068850e5e..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_RoundEnd()" NewName="A.cf8fed6c00e6683259a3b556068850e5e..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_RoundEnd()" NewName="A.cf8fed6c00e6683259a3b556068850e5e.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_RoundEnd()" NewName="A.cf8fed6c00e6683259a3b556068850e5e.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_AllGeneratorsActivated()" NewName="A.cf89a5603ca0618ebc9ca69acd23d17c3..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_AllGeneratorsActivated()" NewName="A.cf89a5603ca0618ebc9ca69acd23d17c3..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_AllGeneratorsActivated()" NewName="A.cf89a5603ca0618ebc9ca69acd23d17c3.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_AllGeneratorsActivated()" NewName="A.cf89a5603ca0618ebc9ca69acd23d17c3.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_GeneratorActivated()" NewName="A.c100c145eb633bb1c47001dc278a10deb..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_GeneratorActivated()" NewName="A.c100c145eb633bb1c47001dc278a10deb..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_GeneratorActivated()" NewName="A.c100c145eb633bb1c47001dc278a10deb.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_GeneratorActivated()" NewName="A.c100c145eb633bb1c47001dc278a10deb.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_Generator079.get_NetworktotalVoltage()" NewName="A.cf7b1be62b548c47af8ada63318a196dd..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Generator079.get_NetworktotalVoltage()" NewName="A.cf7b1be62b548c47af8ada63318a196dd..cctor()" />
+<Entry OldName="Proxy_Generator079.get_NetworktotalVoltage()" NewName="A.cf7b1be62b548c47af8ada63318a196dd.Invoke(Object )" />
+<Entry OldName="Proxy_Generator079.get_NetworktotalVoltage()" NewName="A.cf7b1be62b548c47af8ada63318a196dd.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_Scplist()" NewName="A.c76b32c83e8bae2f2a78c4c172121e305..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_Scplist()" NewName="A.c76b32c83e8bae2f2a78c4c172121e305..cctor()" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_Scplist()" NewName="A.c76b32c83e8bae2f2a78c4c172121e305.Invoke(Object )" />
+<Entry OldName="Proxy_A.c4da6745eb586b6e2fea4d032ed6298a7.get_Scplist()" NewName="A.c76b32c83e8bae2f2a78c4c172121e305.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.SpawningEventArgs.get_Player()" NewName="A.c3e860227d9d384878d337b83a670fabe..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.SpawningEventArgs.get_Player()" NewName="A.c3e860227d9d384878d337b83a670fabe..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.SpawningEventArgs.get_Player()" NewName="A.c3e860227d9d384878d337b83a670fabe.Invoke(Object )" />
+<Entry OldName="Proxy_Exiled.Events.EventArgs.SpawningEventArgs.get_Player()" NewName="A.c3e860227d9d384878d337b83a670fabe.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.String.Concat(String , String , String , String )" NewName="A.c5b0c61adb8e0acb0849f0e6b4a353e9f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Concat(String , String , String , String )" NewName="A.c5b0c61adb8e0acb0849f0e6b4a353e9f..cctor()" />
+<Entry OldName="Proxy_System.String.Concat(String , String , String , String )" NewName="A.c5b0c61adb8e0acb0849f0e6b4a353e9f.Invoke(String , String , String , String )" />
+<Entry OldName="Proxy_System.String.Concat(String , String , String , String )" NewName="A.c5b0c61adb8e0acb0849f0e6b4a353e9f.c7b8ec46dc27282504228334591fdfe7a(String , String , String , String )" />
+<Entry OldName="Proxy_System.String.Concat(String , String )" NewName="A.c399a2351640923c70ad3be656eb5f643..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Concat(String , String )" NewName="A.c399a2351640923c70ad3be656eb5f643..cctor()" />
+<Entry OldName="Proxy_System.String.Concat(String , String )" NewName="A.c399a2351640923c70ad3be656eb5f643.Invoke(String , String )" />
+<Entry OldName="Proxy_System.String.Concat(String , String )" NewName="A.c399a2351640923c70ad3be656eb5f643.c7b8ec46dc27282504228334591fdfe7a(String , String )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_List()" NewName="A.c19d1919106acc5cfcccdbb974f136d6f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_List()" NewName="A.c19d1919106acc5cfcccdbb974f136d6f..cctor()" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_List()" NewName="A.c19d1919106acc5cfcccdbb974f136d6f.Invoke()" />
+<Entry OldName="Proxy_Exiled.API.Features.Player.get_List()" NewName="A.c19d1919106acc5cfcccdbb974f136d6f.c7b8ec46dc27282504228334591fdfe7a()" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;MEC.CoroutineHandle&gt;.Clear()" NewName="A.cf9985d85878a8ee7c26651a9354a7d10..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;MEC.CoroutineHandle&gt;.Clear()" NewName="A.cf9985d85878a8ee7c26651a9354a7d10..cctor()" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;MEC.CoroutineHandle&gt;.Clear()" NewName="A.cf9985d85878a8ee7c26651a9354a7d10.Invoke(Object )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;MEC.CoroutineHandle&gt;.Clear()" NewName="A.cf9985d85878a8ee7c26651a9354a7d10.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1.Enumerator&lt;MEC.CoroutineHandle&gt;.MoveNext()" NewName="A.cd3a86b29e923ec09aeec0150c85eb8be..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1.Enumerator&lt;MEC.CoroutineHandle&gt;.MoveNext()" NewName="A.cd3a86b29e923ec09aeec0150c85eb8be..cctor()" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1.Enumerator&lt;MEC.CoroutineHandle&gt;.MoveNext()" NewName="A.cd3a86b29e923ec09aeec0150c85eb8be.Invoke(Enumerator&amp; )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1.Enumerator&lt;MEC.CoroutineHandle&gt;.MoveNext()" NewName="A.cd3a86b29e923ec09aeec0150c85eb8be.c7b8ec46dc27282504228334591fdfe7a(Enumerator&amp; )" />
+<Entry OldName="Proxy_MEC.Timing.KillCoroutines(CoroutineHandle[] )" NewName="A.c919bce652b27c2f05ebd1c59804fcee5..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_MEC.Timing.KillCoroutines(CoroutineHandle[] )" NewName="A.c919bce652b27c2f05ebd1c59804fcee5..cctor()" />
+<Entry OldName="Proxy_MEC.Timing.KillCoroutines(CoroutineHandle[] )" NewName="A.c919bce652b27c2f05ebd1c59804fcee5.Invoke(CoroutineHandle[] )" />
+<Entry OldName="Proxy_MEC.Timing.KillCoroutines(CoroutineHandle[] )" NewName="A.c919bce652b27c2f05ebd1c59804fcee5.c7b8ec46dc27282504228334591fdfe7a(CoroutineHandle[] )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1.Enumerator&lt;MEC.CoroutineHandle&gt;.get_Current()" NewName="A.cbab02fd4c1be00485efd00719f242d79..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1.Enumerator&lt;MEC.CoroutineHandle&gt;.get_Current()" NewName="A.cbab02fd4c1be00485efd00719f242d79..cctor()" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1.Enumerator&lt;MEC.CoroutineHandle&gt;.get_Current()" NewName="A.cbab02fd4c1be00485efd00719f242d79.Invoke(Enumerator&amp; )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1.Enumerator&lt;MEC.CoroutineHandle&gt;.get_Current()" NewName="A.cbab02fd4c1be00485efd00719f242d79.c7b8ec46dc27282504228334591fdfe7a(Enumerator&amp; )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;MEC.CoroutineHandle&gt;.GetEnumerator()" NewName="A.c370bec757aeb976477efc424b5e7ec3c..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;MEC.CoroutineHandle&gt;.GetEnumerator()" NewName="A.c370bec757aeb976477efc424b5e7ec3c..cctor()" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;MEC.CoroutineHandle&gt;.GetEnumerator()" NewName="A.c370bec757aeb976477efc424b5e7ec3c.Invoke(Object )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;MEC.CoroutineHandle&gt;.GetEnumerator()" NewName="A.c370bec757aeb976477efc424b5e7ec3c.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.add_Decontaminating(CustomEventHandler`1 )" NewName="A.c2fe446562c546b55d27da891bae5be33..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.add_Decontaminating(CustomEventHandler`1 )" NewName="A.c2fe446562c546b55d27da891bae5be33..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.add_Decontaminating(CustomEventHandler`1 )" NewName="A.c2fe446562c546b55d27da891bae5be33.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.add_Decontaminating(CustomEventHandler`1 )" NewName="A.c2fe446562c546b55d27da891bae5be33.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.add_RestartingRound(CustomEventHandler )" NewName="A.ccfa1f4ba065312eb69c3706c241bac30..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.add_RestartingRound(CustomEventHandler )" NewName="A.ccfa1f4ba065312eb69c3706c241bac30..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.add_RestartingRound(CustomEventHandler )" NewName="A.ccfa1f4ba065312eb69c3706c241bac30.Invoke(CustomEventHandler )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.add_RestartingRound(CustomEventHandler )" NewName="A.ccfa1f4ba065312eb69c3706c241bac30.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.add_Spawning(CustomEventHandler`1 )" NewName="A.cbf694e95df8cf4e0bc150c0373056237..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.add_Spawning(CustomEventHandler`1 )" NewName="A.cbf694e95df8cf4e0bc150c0373056237..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.add_Spawning(CustomEventHandler`1 )" NewName="A.cbf694e95df8cf4e0bc150c0373056237.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.add_Spawning(CustomEventHandler`1 )" NewName="A.cbf694e95df8cf4e0bc150c0373056237.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.add_GeneratorActivated(CustomEventHandler`1 )" NewName="A.cf0b14568007163d86f56f635b601f56c..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.add_GeneratorActivated(CustomEventHandler`1 )" NewName="A.cf0b14568007163d86f56f635b601f56c..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.add_GeneratorActivated(CustomEventHandler`1 )" NewName="A.cf0b14568007163d86f56f635b601f56c.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.add_GeneratorActivated(CustomEventHandler`1 )" NewName="A.cf0b14568007163d86f56f635b601f56c.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.add_RoundEnded(CustomEventHandler`1 )" NewName="A.cdeb46ad234559e144040450a15c15032..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.add_RoundEnded(CustomEventHandler`1 )" NewName="A.cdeb46ad234559e144040450a15c15032..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.add_RoundEnded(CustomEventHandler`1 )" NewName="A.cdeb46ad234559e144040450a15c15032.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.add_RoundEnded(CustomEventHandler`1 )" NewName="A.cdeb46ad234559e144040450a15c15032.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.add_RoundStarted(CustomEventHandler )" NewName="A.c0ab0ed0cd9b963e33737ac050ba8bf94..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.add_RoundStarted(CustomEventHandler )" NewName="A.c0ab0ed0cd9b963e33737ac050ba8bf94..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.add_RoundStarted(CustomEventHandler )" NewName="A.c0ab0ed0cd9b963e33737ac050ba8bf94.Invoke(CustomEventHandler )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.add_RoundStarted(CustomEventHandler )" NewName="A.c0ab0ed0cd9b963e33737ac050ba8bf94.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.add_AnnouncingDecontamination(CustomEventHandler`1 )" NewName="A.cda96f466f16c47f33ac211d31d040a75..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.add_AnnouncingDecontamination(CustomEventHandler`1 )" NewName="A.cda96f466f16c47f33ac211d31d040a75..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.add_AnnouncingDecontamination(CustomEventHandler`1 )" NewName="A.cda96f466f16c47f33ac211d31d040a75.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.add_AnnouncingDecontamination(CustomEventHandler`1 )" NewName="A.cda96f466f16c47f33ac211d31d040a75.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.add_Left(CustomEventHandler`1 )" NewName="A.c0a231dcc3eac515b98f903c3bf315cb1..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.add_Left(CustomEventHandler`1 )" NewName="A.c0a231dcc3eac515b98f903c3bf315cb1..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.add_Left(CustomEventHandler`1 )" NewName="A.c0a231dcc3eac515b98f903c3bf315cb1.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.add_Left(CustomEventHandler`1 )" NewName="A.c0a231dcc3eac515b98f903c3bf315cb1.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.add_Verified(CustomEventHandler`1 )" NewName="A.c59ab9c5313e397057a860eefcb20685f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.add_Verified(CustomEventHandler`1 )" NewName="A.c59ab9c5313e397057a860eefcb20685f..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.add_Verified(CustomEventHandler`1 )" NewName="A.c59ab9c5313e397057a860eefcb20685f.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.add_Verified(CustomEventHandler`1 )" NewName="A.c59ab9c5313e397057a860eefcb20685f.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.add_Died(CustomEventHandler`1 )" NewName="A.ca7e70bb545a0abf075f2ccc2e9d54891..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.add_Died(CustomEventHandler`1 )" NewName="A.ca7e70bb545a0abf075f2ccc2e9d54891..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.add_Died(CustomEventHandler`1 )" NewName="A.ca7e70bb545a0abf075f2ccc2e9d54891.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.add_Died(CustomEventHandler`1 )" NewName="A.ca7e70bb545a0abf075f2ccc2e9d54891.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.add_AnnouncingScpTermination(CustomEventHandler`1 )" NewName="A.c8953d286c9cca3fa7484311379ea1d9c..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.add_AnnouncingScpTermination(CustomEventHandler`1 )" NewName="A.c8953d286c9cca3fa7484311379ea1d9c..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.add_AnnouncingScpTermination(CustomEventHandler`1 )" NewName="A.c8953d286c9cca3fa7484311379ea1d9c.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.add_AnnouncingScpTermination(CustomEventHandler`1 )" NewName="A.c8953d286c9cca3fa7484311379ea1d9c.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.add_RespawningTeam(CustomEventHandler`1 )" NewName="A.c4eb5fea9940a482a55a3479387a04ec5..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.add_RespawningTeam(CustomEventHandler`1 )" NewName="A.c4eb5fea9940a482a55a3479387a04ec5..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.add_RespawningTeam(CustomEventHandler`1 )" NewName="A.c4eb5fea9940a482a55a3479387a04ec5.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.add_RespawningTeam(CustomEventHandler`1 )" NewName="A.c4eb5fea9940a482a55a3479387a04ec5.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.add_AnnouncingNtfEntrance(CustomEventHandler`1 )" NewName="A.c145458630ae00d1b7e248b4da0d6a8b6..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.add_AnnouncingNtfEntrance(CustomEventHandler`1 )" NewName="A.c145458630ae00d1b7e248b4da0d6a8b6..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.add_AnnouncingNtfEntrance(CustomEventHandler`1 )" NewName="A.c145458630ae00d1b7e248b4da0d6a8b6.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.add_AnnouncingNtfEntrance(CustomEventHandler`1 )" NewName="A.c145458630ae00d1b7e248b4da0d6a8b6.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.add_Detonated(CustomEventHandler )" NewName="A.c94350bf05c682ccd0a1475c25fd618c6..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.add_Detonated(CustomEventHandler )" NewName="A.c94350bf05c682ccd0a1475c25fd618c6..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.add_Detonated(CustomEventHandler )" NewName="A.c94350bf05c682ccd0a1475c25fd618c6.Invoke(CustomEventHandler )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.add_Detonated(CustomEventHandler )" NewName="A.c94350bf05c682ccd0a1475c25fd618c6.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.add_Stopping(CustomEventHandler`1 )" NewName="A.cac3b0dbdfdb4a62a68da7be96b802220..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.add_Stopping(CustomEventHandler`1 )" NewName="A.cac3b0dbdfdb4a62a68da7be96b802220..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.add_Stopping(CustomEventHandler`1 )" NewName="A.cac3b0dbdfdb4a62a68da7be96b802220.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.add_Stopping(CustomEventHandler`1 )" NewName="A.cac3b0dbdfdb4a62a68da7be96b802220.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.add_Starting(CustomEventHandler`1 )" NewName="A.cda1341697237c0c34d3af083bb69ea77..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.add_Starting(CustomEventHandler`1 )" NewName="A.cda1341697237c0c34d3af083bb69ea77..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.add_Starting(CustomEventHandler`1 )" NewName="A.cda1341697237c0c34d3af083bb69ea77.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.add_Starting(CustomEventHandler`1 )" NewName="A.cda1341697237c0c34d3af083bb69ea77.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.API.Features.Plugin`1&lt;A.c4da6745eb586b6e2fea4d032ed6298a7&gt;.OnEnabled()" NewName="A.c046580ad66e9ba6f2e7912dde4b3c8f5..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.API.Features.Plugin`1&lt;A.c4da6745eb586b6e2fea4d032ed6298a7&gt;.OnEnabled()" NewName="A.c046580ad66e9ba6f2e7912dde4b3c8f5..cctor()" />
+<Entry OldName="Proxy_Exiled.API.Features.Plugin`1&lt;A.c4da6745eb586b6e2fea4d032ed6298a7&gt;.OnEnabled()" NewName="A.c046580ad66e9ba6f2e7912dde4b3c8f5.Invoke(Object )" />
+<Entry OldName="Proxy_Exiled.API.Features.Plugin`1&lt;A.c4da6745eb586b6e2fea4d032ed6298a7&gt;.OnEnabled()" NewName="A.c046580ad66e9ba6f2e7912dde4b3c8f5.c7b8ec46dc27282504228334591fdfe7a(Object )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.remove_Decontaminating(CustomEventHandler`1 )" NewName="A.c6b162688888ecdbaa68b8116d8b14b16..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.remove_Decontaminating(CustomEventHandler`1 )" NewName="A.c6b162688888ecdbaa68b8116d8b14b16..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.remove_Decontaminating(CustomEventHandler`1 )" NewName="A.c6b162688888ecdbaa68b8116d8b14b16.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.remove_Decontaminating(CustomEventHandler`1 )" NewName="A.c6b162688888ecdbaa68b8116d8b14b16.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.remove_RestartingRound(CustomEventHandler )" NewName="A.cb42bf4d19f41b7d4fbfb360839b8cb33..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.remove_RestartingRound(CustomEventHandler )" NewName="A.cb42bf4d19f41b7d4fbfb360839b8cb33..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.remove_RestartingRound(CustomEventHandler )" NewName="A.cb42bf4d19f41b7d4fbfb360839b8cb33.Invoke(CustomEventHandler )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.remove_RestartingRound(CustomEventHandler )" NewName="A.cb42bf4d19f41b7d4fbfb360839b8cb33.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.remove_Spawning(CustomEventHandler`1 )" NewName="A.c939114337ba3a7a754e0280c1a678662..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.remove_Spawning(CustomEventHandler`1 )" NewName="A.c939114337ba3a7a754e0280c1a678662..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.remove_Spawning(CustomEventHandler`1 )" NewName="A.c939114337ba3a7a754e0280c1a678662.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.remove_Spawning(CustomEventHandler`1 )" NewName="A.c939114337ba3a7a754e0280c1a678662.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.remove_GeneratorActivated(CustomEventHandler`1 )" NewName="A.ca13955fd611914d0f2c4336df08db32e..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.remove_GeneratorActivated(CustomEventHandler`1 )" NewName="A.ca13955fd611914d0f2c4336df08db32e..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.remove_GeneratorActivated(CustomEventHandler`1 )" NewName="A.ca13955fd611914d0f2c4336df08db32e.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.remove_GeneratorActivated(CustomEventHandler`1 )" NewName="A.ca13955fd611914d0f2c4336df08db32e.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.remove_RoundEnded(CustomEventHandler`1 )" NewName="A.cd8d15e62c03041e572a57e6c026c3b4c..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.remove_RoundEnded(CustomEventHandler`1 )" NewName="A.cd8d15e62c03041e572a57e6c026c3b4c..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.remove_RoundEnded(CustomEventHandler`1 )" NewName="A.cd8d15e62c03041e572a57e6c026c3b4c.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.remove_RoundEnded(CustomEventHandler`1 )" NewName="A.cd8d15e62c03041e572a57e6c026c3b4c.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.remove_RoundStarted(CustomEventHandler )" NewName="A.c3b68ff4f48953541e5190566360ffe5d..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.remove_RoundStarted(CustomEventHandler )" NewName="A.c3b68ff4f48953541e5190566360ffe5d..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.remove_RoundStarted(CustomEventHandler )" NewName="A.c3b68ff4f48953541e5190566360ffe5d.Invoke(CustomEventHandler )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.remove_RoundStarted(CustomEventHandler )" NewName="A.c3b68ff4f48953541e5190566360ffe5d.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.remove_AnnouncingDecontamination(CustomEventHandler`1 )" NewName="A.c2e4b8d2b7358cbeae0348a5724cdb588..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.remove_AnnouncingDecontamination(CustomEventHandler`1 )" NewName="A.c2e4b8d2b7358cbeae0348a5724cdb588..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.remove_AnnouncingDecontamination(CustomEventHandler`1 )" NewName="A.c2e4b8d2b7358cbeae0348a5724cdb588.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.remove_AnnouncingDecontamination(CustomEventHandler`1 )" NewName="A.c2e4b8d2b7358cbeae0348a5724cdb588.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.remove_Left(CustomEventHandler`1 )" NewName="A.ce1e1a9373b5e94f095a39e1e408e5f1a..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.remove_Left(CustomEventHandler`1 )" NewName="A.ce1e1a9373b5e94f095a39e1e408e5f1a..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.remove_Left(CustomEventHandler`1 )" NewName="A.ce1e1a9373b5e94f095a39e1e408e5f1a.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.remove_Left(CustomEventHandler`1 )" NewName="A.ce1e1a9373b5e94f095a39e1e408e5f1a.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.remove_Verified(CustomEventHandler`1 )" NewName="A.c215abbac7e15b23e3f3a7effe74b8bc5..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.remove_Verified(CustomEventHandler`1 )" NewName="A.c215abbac7e15b23e3f3a7effe74b8bc5..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.remove_Verified(CustomEventHandler`1 )" NewName="A.c215abbac7e15b23e3f3a7effe74b8bc5.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.remove_Verified(CustomEventHandler`1 )" NewName="A.c215abbac7e15b23e3f3a7effe74b8bc5.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.remove_Died(CustomEventHandler`1 )" NewName="A.c03f18d8511dda7b9e8055245afcd9394..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.remove_Died(CustomEventHandler`1 )" NewName="A.c03f18d8511dda7b9e8055245afcd9394..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.remove_Died(CustomEventHandler`1 )" NewName="A.c03f18d8511dda7b9e8055245afcd9394.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Player.remove_Died(CustomEventHandler`1 )" NewName="A.c03f18d8511dda7b9e8055245afcd9394.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.remove_AnnouncingScpTermination(CustomEventHandler`1 )" NewName="A.c771eebe3671b1d5d53ada56d3b609d3f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.remove_AnnouncingScpTermination(CustomEventHandler`1 )" NewName="A.c771eebe3671b1d5d53ada56d3b609d3f..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.remove_AnnouncingScpTermination(CustomEventHandler`1 )" NewName="A.c771eebe3671b1d5d53ada56d3b609d3f.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.remove_AnnouncingScpTermination(CustomEventHandler`1 )" NewName="A.c771eebe3671b1d5d53ada56d3b609d3f.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.remove_RespawningTeam(CustomEventHandler`1 )" NewName="A.cb1c57b0cc6c4b43376ee5962e9a90d84..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.remove_RespawningTeam(CustomEventHandler`1 )" NewName="A.cb1c57b0cc6c4b43376ee5962e9a90d84..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.remove_RespawningTeam(CustomEventHandler`1 )" NewName="A.cb1c57b0cc6c4b43376ee5962e9a90d84.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Server.remove_RespawningTeam(CustomEventHandler`1 )" NewName="A.cb1c57b0cc6c4b43376ee5962e9a90d84.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.remove_AnnouncingNtfEntrance(CustomEventHandler`1 )" NewName="A.cc04690284d234036babcf618bfe0dc01..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.remove_AnnouncingNtfEntrance(CustomEventHandler`1 )" NewName="A.cc04690284d234036babcf618bfe0dc01..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.remove_AnnouncingNtfEntrance(CustomEventHandler`1 )" NewName="A.cc04690284d234036babcf618bfe0dc01.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Map.remove_AnnouncingNtfEntrance(CustomEventHandler`1 )" NewName="A.cc04690284d234036babcf618bfe0dc01.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.remove_Detonated(CustomEventHandler )" NewName="A.c41af19a10d0761c7602787e631d1701f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.remove_Detonated(CustomEventHandler )" NewName="A.c41af19a10d0761c7602787e631d1701f..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.remove_Detonated(CustomEventHandler )" NewName="A.c41af19a10d0761c7602787e631d1701f.Invoke(CustomEventHandler )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.remove_Detonated(CustomEventHandler )" NewName="A.c41af19a10d0761c7602787e631d1701f.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.remove_Stopping(CustomEventHandler`1 )" NewName="A.cb8b11e4ff0dec15dc6b0469c968a4971..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.remove_Stopping(CustomEventHandler`1 )" NewName="A.cb8b11e4ff0dec15dc6b0469c968a4971..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.remove_Stopping(CustomEventHandler`1 )" NewName="A.cb8b11e4ff0dec15dc6b0469c968a4971.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.remove_Stopping(CustomEventHandler`1 )" NewName="A.cb8b11e4ff0dec15dc6b0469c968a4971.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.remove_Starting(CustomEventHandler`1 )" NewName="A.ca888b02dcb00aa221b61be1849c26c47..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.remove_Starting(CustomEventHandler`1 )" NewName="A.ca888b02dcb00aa221b61be1849c26c47..cctor()" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.remove_Starting(CustomEventHandler`1 )" NewName="A.ca888b02dcb00aa221b61be1849c26c47.Invoke(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.Events.Handlers.Warhead.remove_Starting(CustomEventHandler`1 )" NewName="A.ca888b02dcb00aa221b61be1849c26c47.c7b8ec46dc27282504228334591fdfe7a(CustomEventHandler`1 )" />
+<Entry OldName="Proxy_Exiled.API.Features.Plugin`1&lt;A.c4da6745eb586b6e2fea4d032ed6298a7&gt;.OnDisabled()" NewName="A.c34d70d563c14a733005aa226e549b367..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Exiled.API.Features.Plugin`1&lt;A.c4da6745eb586b6e2fea4d032ed6298a7&gt;.OnDisabled()" NewName="A.c34d70d563c14a733005aa226e549b367..cctor()" />
+<Entry OldName="Proxy_Exiled.API.Features.Plugin`1&lt;A.c4da6745eb586b6e2fea4d032ed6298a7&gt;.OnDisabled()" NewName="A.c34d70d563c14a733005aa226e549b367.Invoke(Object )" />
+<Entry OldName="Proxy_Exiled.API.Features.Plugin`1&lt;A.c4da6745eb586b6e2fea4d032ed6298a7&gt;.OnDisabled()" NewName="A.c34d70d563c14a733005aa226e549b367.c7b8ec46dc27282504228334591fdfe7a(Object )" />
+<Entry OldName="Proxy_MEC.Timing.WaitForSeconds(Single )" NewName="A.c772746ce0cdeae6d989fa2394566209e..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_MEC.Timing.WaitForSeconds(Single )" NewName="A.c772746ce0cdeae6d989fa2394566209e..cctor()" />
+<Entry OldName="Proxy_MEC.Timing.WaitForSeconds(Single )" NewName="A.c772746ce0cdeae6d989fa2394566209e.Invoke(Single )" />
+<Entry OldName="Proxy_MEC.Timing.WaitForSeconds(Single )" NewName="A.c772746ce0cdeae6d989fa2394566209e.c7b8ec46dc27282504228334591fdfe7a(Single )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;System.String&gt;.get_Item(Int32 )" NewName="A.c7250e0f0d5b975ed749eb4cf5c75dc1a..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;System.String&gt;.get_Item(Int32 )" NewName="A.c7250e0f0d5b975ed749eb4cf5c75dc1a..cctor()" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;System.String&gt;.get_Item(Int32 )" NewName="A.c7250e0f0d5b975ed749eb4cf5c75dc1a.Invoke(Object , Int32 )" />
+<Entry OldName="Proxy_System.Collections.Generic.List`1&lt;System.String&gt;.get_Item(Int32 )" NewName="A.c7250e0f0d5b975ed749eb4cf5c75dc1a.c83dae34efd5c9e4827f854b99b0f8ec5(Object , Int32 )" />
+<Entry OldName="Proxy_UnityEngine.Random.Range(Int32 , Int32 )" NewName="A.c9c520b1133c7f8f7df52a62b37885ba3..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_UnityEngine.Random.Range(Int32 , Int32 )" NewName="A.c9c520b1133c7f8f7df52a62b37885ba3..cctor()" />
+<Entry OldName="Proxy_UnityEngine.Random.Range(Int32 , Int32 )" NewName="A.c9c520b1133c7f8f7df52a62b37885ba3.Invoke(Int32 , Int32 )" />
+<Entry OldName="Proxy_UnityEngine.Random.Range(Int32 , Int32 )" NewName="A.c9c520b1133c7f8f7df52a62b37885ba3.c7b8ec46dc27282504228334591fdfe7a(Int32 , Int32 )" />
+<Entry OldName="Proxy_System.NotSupportedException..ctor()" NewName="A.c124c12ad0cd9c4ec418fdf4bf53a4146..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.NotSupportedException..ctor()" NewName="A.c124c12ad0cd9c4ec418fdf4bf53a4146..cctor()" />
+<Entry OldName="Proxy_System.NotSupportedException..ctor()" NewName="A.c124c12ad0cd9c4ec418fdf4bf53a4146.Invoke()" />
+<Entry OldName="Proxy_System.NotSupportedException..ctor()" NewName="A.c124c12ad0cd9c4ec418fdf4bf53a4146.c7b8ec46dc27282504228334591fdfe7a()" />
+<Entry OldName="Proxy_System.String.Compare(String , String , Boolean )" NewName="A.cb01022352b5ff5d38090271f010601af..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Compare(String , String , Boolean )" NewName="A.cb01022352b5ff5d38090271f010601af..cctor()" />
+<Entry OldName="Proxy_System.String.Compare(String , String , Boolean )" NewName="A.cb01022352b5ff5d38090271f010601af.Invoke(String , String , Boolean )" />
+<Entry OldName="Proxy_System.String.Compare(String , String , Boolean )" NewName="A.cb01022352b5ff5d38090271f010601af.c7b8ec46dc27282504228334591fdfe7a(String , String , Boolean )" />
+<Entry OldName="Proxy_System.Object.ToString()" NewName="A.c968b2189e08bb89e316ec9a26ad606fe..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Object.ToString()" NewName="A.c968b2189e08bb89e316ec9a26ad606fe..cctor()" />
+<Entry OldName="Proxy_System.Object.ToString()" NewName="A.c968b2189e08bb89e316ec9a26ad606fe.Invoke(Object )" />
+<Entry OldName="Proxy_System.Object.ToString()" NewName="A.c968b2189e08bb89e316ec9a26ad606fe.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.Text.StringBuilder.get_Capacity()" NewName="A.c801cbb48526583f7d8975577cdc9cff7..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Text.StringBuilder.get_Capacity()" NewName="A.c801cbb48526583f7d8975577cdc9cff7..cctor()" />
+<Entry OldName="Proxy_System.Text.StringBuilder.get_Capacity()" NewName="A.c801cbb48526583f7d8975577cdc9cff7.Invoke(Object )" />
+<Entry OldName="Proxy_System.Text.StringBuilder.get_Capacity()" NewName="A.c801cbb48526583f7d8975577cdc9cff7.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.Text.StringBuilder..ctor(Int32 )" NewName="A.cc12221698d281fec764c784823af7ca7..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Text.StringBuilder..ctor(Int32 )" NewName="A.cc12221698d281fec764c784823af7ca7..cctor()" />
+<Entry OldName="Proxy_System.Text.StringBuilder..ctor(Int32 )" NewName="A.cc12221698d281fec764c784823af7ca7.Invoke(Int32 )" />
+<Entry OldName="Proxy_System.Text.StringBuilder..ctor(Int32 )" NewName="A.cc12221698d281fec764c784823af7ca7.c7b8ec46dc27282504228334591fdfe7a(Int32 )" />
+<Entry OldName="Proxy_System.Exception..ctor(String )" NewName="A.c2dc028c7731e6b05a02a932ee87cc591..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Exception..ctor(String )" NewName="A.c2dc028c7731e6b05a02a932ee87cc591..cctor()" />
+<Entry OldName="Proxy_System.Exception..ctor(String )" NewName="A.c2dc028c7731e6b05a02a932ee87cc591.Invoke(String )" />
+<Entry OldName="Proxy_System.Exception..ctor(String )" NewName="A.c2dc028c7731e6b05a02a932ee87cc591.c7b8ec46dc27282504228334591fdfe7a(String )" />
+<Entry OldName="Proxy_System.String.Format(String , Object )" NewName="A.cd164ce180b549e2b464a11c3fec81886..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Format(String , Object )" NewName="A.cd164ce180b549e2b464a11c3fec81886..cctor()" />
+<Entry OldName="Proxy_System.String.Format(String , Object )" NewName="A.cd164ce180b549e2b464a11c3fec81886.Invoke(String , Object )" />
+<Entry OldName="Proxy_System.String.Format(String , Object )" NewName="A.cd164ce180b549e2b464a11c3fec81886.c7b8ec46dc27282504228334591fdfe7a(String , Object )" />
+<Entry OldName="Proxy_A.c90391c3791060ade66a03350fcf458fd.cda72cbcc89edfe3d98c4d3c18919ff01.Invoke(cd364a40be243cf102bdee0fc28b5c8f0 lpEnumFunc, IntPtr lParam)" NewName="A.c0fe8f1962ffe6a130f93fe684cbf1460..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c90391c3791060ade66a03350fcf458fd.cda72cbcc89edfe3d98c4d3c18919ff01.Invoke(cd364a40be243cf102bdee0fc28b5c8f0 lpEnumFunc, IntPtr lParam)" NewName="A.c0fe8f1962ffe6a130f93fe684cbf1460..cctor()" />
+<Entry OldName="Proxy_A.c90391c3791060ade66a03350fcf458fd.cda72cbcc89edfe3d98c4d3c18919ff01.Invoke(cd364a40be243cf102bdee0fc28b5c8f0 lpEnumFunc, IntPtr lParam)" NewName="A.c0fe8f1962ffe6a130f93fe684cbf1460.Invoke(Object , cd364a40be243cf102bdee0fc28b5c8f0 lpEnumFunc, IntPtr lParam)" />
+<Entry OldName="Proxy_A.c90391c3791060ade66a03350fcf458fd.cda72cbcc89edfe3d98c4d3c18919ff01.Invoke(cd364a40be243cf102bdee0fc28b5c8f0 lpEnumFunc, IntPtr lParam)" NewName="A.c0fe8f1962ffe6a130f93fe684cbf1460.c83dae34efd5c9e4827f854b99b0f8ec5(Object , cd364a40be243cf102bdee0fc28b5c8f0 , IntPtr )" />
+<Entry OldName="Proxy_A.c90391c3791060ade66a03350fcf458fd.cebcae8de1f834634d280aeb012dd5d37.Invoke(IntPtr hProcess, Int32&amp; pbDebuggerPresent)" NewName="A.c994a872a7283d2fbbf9a483ecd370fb1..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c90391c3791060ade66a03350fcf458fd.cebcae8de1f834634d280aeb012dd5d37.Invoke(IntPtr hProcess, Int32&amp; pbDebuggerPresent)" NewName="A.c994a872a7283d2fbbf9a483ecd370fb1..cctor()" />
+<Entry OldName="Proxy_A.c90391c3791060ade66a03350fcf458fd.cebcae8de1f834634d280aeb012dd5d37.Invoke(IntPtr hProcess, Int32&amp; pbDebuggerPresent)" NewName="A.c994a872a7283d2fbbf9a483ecd370fb1.Invoke(Object , IntPtr hProcess, Int32&amp; pbDebuggerPresent)" />
+<Entry OldName="Proxy_A.c90391c3791060ade66a03350fcf458fd.cebcae8de1f834634d280aeb012dd5d37.Invoke(IntPtr hProcess, Int32&amp; pbDebuggerPresent)" NewName="A.c994a872a7283d2fbbf9a483ecd370fb1.c83dae34efd5c9e4827f854b99b0f8ec5(Object , IntPtr , Int32&amp; )" />
+<Entry OldName="Proxy_System.IntPtr.op_Inequality(IntPtr , IntPtr )" NewName="A.cd2c3cb9121053b6c3b664c639b165dfd..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IntPtr.op_Inequality(IntPtr , IntPtr )" NewName="A.cd2c3cb9121053b6c3b664c639b165dfd..cctor()" />
+<Entry OldName="Proxy_System.IntPtr.op_Inequality(IntPtr , IntPtr )" NewName="A.cd2c3cb9121053b6c3b664c639b165dfd.Invoke(IntPtr , IntPtr )" />
+<Entry OldName="Proxy_System.IntPtr.op_Inequality(IntPtr , IntPtr )" NewName="A.cd2c3cb9121053b6c3b664c639b165dfd.c7b8ec46dc27282504228334591fdfe7a(IntPtr , IntPtr )" />
+<Entry OldName="Proxy_A.c90391c3791060ade66a03350fcf458fd.cdadedaac786d57ab30717f3d40b09aa1.Invoke()" NewName="A.c456158a16c92ff008cff4ea8a4518b01..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.c90391c3791060ade66a03350fcf458fd.cdadedaac786d57ab30717f3d40b09aa1.Invoke()" NewName="A.c456158a16c92ff008cff4ea8a4518b01..cctor()" />
+<Entry OldName="Proxy_A.c90391c3791060ade66a03350fcf458fd.cdadedaac786d57ab30717f3d40b09aa1.Invoke()" NewName="A.c456158a16c92ff008cff4ea8a4518b01.Invoke(Object )" />
+<Entry OldName="Proxy_A.c90391c3791060ade66a03350fcf458fd.cdadedaac786d57ab30717f3d40b09aa1.Invoke()" NewName="A.c456158a16c92ff008cff4ea8a4518b01.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.Diagnostics.Debugger.get_IsAttached()" NewName="A.c50363a0d0ca02edc5c05603793c3b1b2..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Diagnostics.Debugger.get_IsAttached()" NewName="A.c50363a0d0ca02edc5c05603793c3b1b2..cctor()" />
+<Entry OldName="Proxy_System.Diagnostics.Debugger.get_IsAttached()" NewName="A.c50363a0d0ca02edc5c05603793c3b1b2.Invoke()" />
+<Entry OldName="Proxy_System.Diagnostics.Debugger.get_IsAttached()" NewName="A.c50363a0d0ca02edc5c05603793c3b1b2.c7b8ec46dc27282504228334591fdfe7a()" />
+<Entry OldName="Proxy_System.Object..ctor()" NewName="A.c51d937267445218a64a16cb505bd10e4..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Object..ctor()" NewName="A.c51d937267445218a64a16cb505bd10e4..cctor()" />
+<Entry OldName="Proxy_System.Object..ctor()" NewName="A.c51d937267445218a64a16cb505bd10e4.Invoke()" />
+<Entry OldName="Proxy_System.Object..ctor()" NewName="A.c51d937267445218a64a16cb505bd10e4.c7b8ec46dc27282504228334591fdfe7a()" />
+<Entry OldName="Proxy_System.IO.MemoryStream..ctor(Int32 )" NewName="A.ce5f6e552555cc5bbefa076d603e414d5..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.MemoryStream..ctor(Int32 )" NewName="A.ce5f6e552555cc5bbefa076d603e414d5..cctor()" />
+<Entry OldName="Proxy_System.IO.MemoryStream..ctor(Int32 )" NewName="A.ce5f6e552555cc5bbefa076d603e414d5.Invoke(Int32 )" />
+<Entry OldName="Proxy_System.IO.MemoryStream..ctor(Int32 )" NewName="A.ce5f6e552555cc5bbefa076d603e414d5.c7b8ec46dc27282504228334591fdfe7a(Int32 )" />
+<Entry OldName="Proxy_System.String.Substring(Int32 , Int32 )" NewName="A.c752d9c064abd78b2ca3d113bc03c901f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Substring(Int32 , Int32 )" NewName="A.c752d9c064abd78b2ca3d113bc03c901f..cctor()" />
+<Entry OldName="Proxy_System.String.Substring(Int32 , Int32 )" NewName="A.c752d9c064abd78b2ca3d113bc03c901f.Invoke(Object , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.String.Substring(Int32 , Int32 )" NewName="A.c752d9c064abd78b2ca3d113bc03c901f.c83dae34efd5c9e4827f854b99b0f8ec5(Object , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.String.IndexOf(Char )" NewName="A.c0f7480f2e8a7b6e83e142ac16f2189ec..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.IndexOf(Char )" NewName="A.c0f7480f2e8a7b6e83e142ac16f2189ec..cctor()" />
+<Entry OldName="Proxy_System.String.IndexOf(Char )" NewName="A.c0f7480f2e8a7b6e83e142ac16f2189ec.Invoke(Object , Char )" />
+<Entry OldName="Proxy_System.String.IndexOf(Char )" NewName="A.c0f7480f2e8a7b6e83e142ac16f2189ec.c83dae34efd5c9e4827f854b99b0f8ec5(Object , Char )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.get_FullName()" NewName="A.cf78b76f3443f0912671b70bd9dacc4a5..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.get_FullName()" NewName="A.cf78b76f3443f0912671b70bd9dacc4a5..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.get_FullName()" NewName="A.cf78b76f3443f0912671b70bd9dacc4a5.Invoke(Object )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.get_FullName()" NewName="A.cf78b76f3443f0912671b70bd9dacc4a5.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.Array.Reverse(Array )" NewName="A.cda583158a55db05d83e4bebdaa4b8316..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Array.Reverse(Array )" NewName="A.cda583158a55db05d83e4bebdaa4b8316..cctor()" />
+<Entry OldName="Proxy_System.Array.Reverse(Array )" NewName="A.cda583158a55db05d83e4bebdaa4b8316.Invoke(Array )" />
+<Entry OldName="Proxy_System.Array.Reverse(Array )" NewName="A.cda583158a55db05d83e4bebdaa4b8316.c7b8ec46dc27282504228334591fdfe7a(Array )" />
+<Entry OldName="Proxy_System.BitConverter.GetBytes(Int64 )" NewName="A.c5ce274b7247ffe151b2cc5237604f687..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.BitConverter.GetBytes(Int64 )" NewName="A.c5ce274b7247ffe151b2cc5237604f687..cctor()" />
+<Entry OldName="Proxy_System.BitConverter.GetBytes(Int64 )" NewName="A.c5ce274b7247ffe151b2cc5237604f687.Invoke(Int64 )" />
+<Entry OldName="Proxy_System.BitConverter.GetBytes(Int64 )" NewName="A.c5ce274b7247ffe151b2cc5237604f687.c7b8ec46dc27282504228334591fdfe7a(Int64 )" />
+<Entry OldName="Proxy_System.Int64.Parse(String , NumberStyles )" NewName="A.ccc70e6ab696092eeed216627521c4e39..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Int64.Parse(String , NumberStyles )" NewName="A.ccc70e6ab696092eeed216627521c4e39..cctor()" />
+<Entry OldName="Proxy_System.Int64.Parse(String , NumberStyles )" NewName="A.ccc70e6ab696092eeed216627521c4e39.Invoke(String , NumberStyles )" />
+<Entry OldName="Proxy_System.Int64.Parse(String , NumberStyles )" NewName="A.ccc70e6ab696092eeed216627521c4e39.c7b8ec46dc27282504228334591fdfe7a(String , NumberStyles )" />
+<Entry OldName="Proxy_System.String.get_Chars(Int32 )" NewName="A.c29f0e258d30909d7bb59419d4a292990..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.get_Chars(Int32 )" NewName="A.c29f0e258d30909d7bb59419d4a292990..cctor()" />
+<Entry OldName="Proxy_System.String.get_Chars(Int32 )" NewName="A.c29f0e258d30909d7bb59419d4a292990.Invoke(Object , Int32 )" />
+<Entry OldName="Proxy_System.String.get_Chars(Int32 )" NewName="A.c29f0e258d30909d7bb59419d4a292990.c83dae34efd5c9e4827f854b99b0f8ec5(Object , Int32 )" />
+<Entry OldName="Proxy_System.String.IndexOf(String )" NewName="A.c26026bd61d3440469d20daada34a7c5c..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.IndexOf(String )" NewName="A.c26026bd61d3440469d20daada34a7c5c..cctor()" />
+<Entry OldName="Proxy_System.String.IndexOf(String )" NewName="A.c26026bd61d3440469d20daada34a7c5c.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.String.IndexOf(String )" NewName="A.c26026bd61d3440469d20daada34a7c5c.c83dae34efd5c9e4827f854b99b0f8ec5(Object , String )" />
+<Entry OldName="Proxy_System.Threading.Monitor.Exit(Object )" NewName="A.c9dd8c9784119baa87a4d376b1db609a8..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Threading.Monitor.Exit(Object )" NewName="A.c9dd8c9784119baa87a4d376b1db609a8..cctor()" />
+<Entry OldName="Proxy_System.Threading.Monitor.Exit(Object )" NewName="A.c9dd8c9784119baa87a4d376b1db609a8.Invoke(Object )" />
+<Entry OldName="Proxy_System.Threading.Monitor.Exit(Object )" NewName="A.c9dd8c9784119baa87a4d376b1db609a8.c7b8ec46dc27282504228334591fdfe7a(Object )" />
+<Entry OldName="Proxy_System.Threading.Monitor.Enter(Object )" NewName="A.cc654fbe50d56061f4ecc1721df60cc4a..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Threading.Monitor.Enter(Object )" NewName="A.cc654fbe50d56061f4ecc1721df60cc4a..cctor()" />
+<Entry OldName="Proxy_System.Threading.Monitor.Enter(Object )" NewName="A.cc654fbe50d56061f4ecc1721df60cc4a.Invoke(Object )" />
+<Entry OldName="Proxy_System.Threading.Monitor.Enter(Object )" NewName="A.cc654fbe50d56061f4ecc1721df60cc4a.c7b8ec46dc27282504228334591fdfe7a(Object )" />
+<Entry OldName="Proxy_System.IO.Stream.Read(Byte[] , Int32 , Int32 )" NewName="A.c022b87f3f731832e2a7d8a25105def66..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Stream.Read(Byte[] , Int32 , Int32 )" NewName="A.c022b87f3f731832e2a7d8a25105def66..cctor()" />
+<Entry OldName="Proxy_System.IO.Stream.Read(Byte[] , Int32 , Int32 )" NewName="A.c022b87f3f731832e2a7d8a25105def66.Invoke(Object , Byte[] , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.IO.Stream.Read(Byte[] , Int32 , Int32 )" NewName="A.c022b87f3f731832e2a7d8a25105def66.c83dae34efd5c9e4827f854b99b0f8ec5(Object , Byte[] , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.IO.Stream.get_Position()" NewName="A.cb1f3a423f0e5028e9b3643a0d730c32f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Stream.get_Position()" NewName="A.cb1f3a423f0e5028e9b3643a0d730c32f..cctor()" />
+<Entry OldName="Proxy_System.IO.Stream.get_Position()" NewName="A.cb1f3a423f0e5028e9b3643a0d730c32f.Invoke(Object )" />
+<Entry OldName="Proxy_System.IO.Stream.get_Position()" NewName="A.cb1f3a423f0e5028e9b3643a0d730c32f.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.IO.Stream.get_Length()" NewName="A.cb7e33c33d2442b2fbd948a178ad52389..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Stream.get_Length()" NewName="A.cb7e33c33d2442b2fbd948a178ad52389..cctor()" />
+<Entry OldName="Proxy_System.IO.Stream.get_Length()" NewName="A.cb7e33c33d2442b2fbd948a178ad52389.Invoke(Object )" />
+<Entry OldName="Proxy_System.IO.Stream.get_Length()" NewName="A.cb7e33c33d2442b2fbd948a178ad52389.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.IO.MemoryStream.ToArray()" NewName="A.c49445e962632e6cdf9226eaee2638d8d..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.MemoryStream.ToArray()" NewName="A.c49445e962632e6cdf9226eaee2638d8d..cctor()" />
+<Entry OldName="Proxy_System.IO.MemoryStream.ToArray()" NewName="A.c49445e962632e6cdf9226eaee2638d8d.Invoke(Object )" />
+<Entry OldName="Proxy_System.IO.MemoryStream.ToArray()" NewName="A.c49445e962632e6cdf9226eaee2638d8d.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.IO.Stream.Write(Byte[] , Int32 , Int32 )" NewName="A.c41627c0e57cc673f412cb1be6b998b77..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Stream.Write(Byte[] , Int32 , Int32 )" NewName="A.c41627c0e57cc673f412cb1be6b998b77..cctor()" />
+<Entry OldName="Proxy_System.IO.Stream.Write(Byte[] , Int32 , Int32 )" NewName="A.c41627c0e57cc673f412cb1be6b998b77.Invoke(Object , Byte[] , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.IO.Stream.Write(Byte[] , Int32 , Int32 )" NewName="A.c41627c0e57cc673f412cb1be6b998b77.c83dae34efd5c9e4827f854b99b0f8ec5(Object , Byte[] , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.IO.Compression.DeflateStream..ctor(Stream , CompressionMode )" NewName="A.c4bb253757154eb72ccbb9d9a2a94de5f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Compression.DeflateStream..ctor(Stream , CompressionMode )" NewName="A.c4bb253757154eb72ccbb9d9a2a94de5f..cctor()" />
+<Entry OldName="Proxy_System.IO.Compression.DeflateStream..ctor(Stream , CompressionMode )" NewName="A.c4bb253757154eb72ccbb9d9a2a94de5f.Invoke(Stream , CompressionMode )" />
+<Entry OldName="Proxy_System.IO.Compression.DeflateStream..ctor(Stream , CompressionMode )" NewName="A.c4bb253757154eb72ccbb9d9a2a94de5f.c7b8ec46dc27282504228334591fdfe7a(Stream , CompressionMode )" />
+<Entry OldName="Proxy_System.IO.Stream.set_Position(Int64 )" NewName="A.c2a5b4ee633350b0149e24cf7e6e80b4a..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Stream.set_Position(Int64 )" NewName="A.c2a5b4ee633350b0149e24cf7e6e80b4a..cctor()" />
+<Entry OldName="Proxy_System.IO.Stream.set_Position(Int64 )" NewName="A.c2a5b4ee633350b0149e24cf7e6e80b4a.Invoke(Object , Int64 )" />
+<Entry OldName="Proxy_System.IO.Stream.set_Position(Int64 )" NewName="A.c2a5b4ee633350b0149e24cf7e6e80b4a.c83dae34efd5c9e4827f854b99b0f8ec5(Object , Int64 )" />
+<Entry OldName="Proxy_System.IO.MemoryStream.set_Capacity(Int32 )" NewName="A.c5b0590be0e92e5a7387784a7a616af00..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.MemoryStream.set_Capacity(Int32 )" NewName="A.c5b0590be0e92e5a7387784a7a616af00..cctor()" />
+<Entry OldName="Proxy_System.IO.MemoryStream.set_Capacity(Int32 )" NewName="A.c5b0590be0e92e5a7387784a7a616af00.Invoke(Object , Int32 )" />
+<Entry OldName="Proxy_System.IO.MemoryStream.set_Capacity(Int32 )" NewName="A.c5b0590be0e92e5a7387784a7a616af00.c83dae34efd5c9e4827f854b99b0f8ec5(Object , Int32 )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformFinalBlock(Byte[] , Int32 , Int32 )" NewName="A.cd5b0577f20ff4c51afb1823c035d4cab..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformFinalBlock(Byte[] , Int32 , Int32 )" NewName="A.cd5b0577f20ff4c51afb1823c035d4cab..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformFinalBlock(Byte[] , Int32 , Int32 )" NewName="A.cd5b0577f20ff4c51afb1823c035d4cab.Invoke(Object , Byte[] , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformFinalBlock(Byte[] , Int32 , Int32 )" NewName="A.cd5b0577f20ff4c51afb1823c035d4cab.c83dae34efd5c9e4827f854b99b0f8ec5(Object , Byte[] , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformBlock(Byte[] , Int32 , Int32 , Byte[] , Int32 )" NewName="A.cff4edfd7a789b10d0f2b5f1e33b60904..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformBlock(Byte[] , Int32 , Int32 , Byte[] , Int32 )" NewName="A.cff4edfd7a789b10d0f2b5f1e33b60904..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformBlock(Byte[] , Int32 , Int32 , Byte[] , Int32 )" NewName="A.cff4edfd7a789b10d0f2b5f1e33b60904.Invoke(Object , Byte[] , Int32 , Int32 , Byte[] , Int32 )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformBlock(Byte[] , Int32 , Int32 , Byte[] , Int32 )" NewName="A.cff4edfd7a789b10d0f2b5f1e33b60904.c83dae34efd5c9e4827f854b99b0f8ec5(Object , Byte[] , Int32 , Int32 , Byte[] , Int32 )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_InputBlockSize()" NewName="A.cb6e9e1bc701e1ebe9a795cba48191743..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_InputBlockSize()" NewName="A.cb6e9e1bc701e1ebe9a795cba48191743..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_InputBlockSize()" NewName="A.cb6e9e1bc701e1ebe9a795cba48191743.Invoke(Object )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_InputBlockSize()" NewName="A.cb6e9e1bc701e1ebe9a795cba48191743.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_OutputBlockSize()" NewName="A.c1b5d7d81de0c7c47d33770f125b7cc94..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_OutputBlockSize()" NewName="A.c1b5d7d81de0c7c47d33770f125b7cc94..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_OutputBlockSize()" NewName="A.c1b5d7d81de0c7c47d33770f125b7cc94.Invoke(Object )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_OutputBlockSize()" NewName="A.c1b5d7d81de0c7c47d33770f125b7cc94.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.CreateDecryptor()" NewName="A.c0749d1b9f771c0ddd2cc48e6d639c320..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.CreateDecryptor()" NewName="A.c0749d1b9f771c0ddd2cc48e6d639c320..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.CreateDecryptor()" NewName="A.c0749d1b9f771c0ddd2cc48e6d639c320.Invoke(Object )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.CreateDecryptor()" NewName="A.c0749d1b9f771c0ddd2cc48e6d639c320.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_Key(Byte[] )" NewName="A.cf5d8c3decdefe6f8633f578e5e1d1567..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_Key(Byte[] )" NewName="A.cf5d8c3decdefe6f8633f578e5e1d1567..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_Key(Byte[] )" NewName="A.cf5d8c3decdefe6f8633f578e5e1d1567.Invoke(Object , Byte[] )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_Key(Byte[] )" NewName="A.cf5d8c3decdefe6f8633f578e5e1d1567.c83dae34efd5c9e4827f854b99b0f8ec5(Object , Byte[] )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetExecutingAssembly()" NewName="A.c21400fc2a0cb04c157f1f15e40f14978..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetExecutingAssembly()" NewName="A.c21400fc2a0cb04c157f1f15e40f14978..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetExecutingAssembly()" NewName="A.c21400fc2a0cb04c157f1f15e40f14978.Invoke()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetExecutingAssembly()" NewName="A.c21400fc2a0cb04c157f1f15e40f14978.c7b8ec46dc27282504228334591fdfe7a()" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_IV(Byte[] )" NewName="A.ca690a3e549636a0c8f25e73d74eadbd4..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_IV(Byte[] )" NewName="A.ca690a3e549636a0c8f25e73d74eadbd4..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_IV(Byte[] )" NewName="A.ca690a3e549636a0c8f25e73d74eadbd4.Invoke(Object , Byte[] )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_IV(Byte[] )" NewName="A.ca690a3e549636a0c8f25e73d74eadbd4.c83dae34efd5c9e4827f854b99b0f8ec5(Object , Byte[] )" />
+<Entry OldName="Proxy_System.Security.Cryptography.DESCryptoServiceProvider..ctor()" NewName="A.c5d200726ebd9b152d9b4e2be1557570e..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.DESCryptoServiceProvider..ctor()" NewName="A.c5d200726ebd9b152d9b4e2be1557570e..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.DESCryptoServiceProvider..ctor()" NewName="A.c5d200726ebd9b152d9b4e2be1557570e.Invoke()" />
+<Entry OldName="Proxy_System.Security.Cryptography.DESCryptoServiceProvider..ctor()" NewName="A.c5d200726ebd9b152d9b4e2be1557570e.c7b8ec46dc27282504228334591fdfe7a()" />
+<Entry OldName="Proxy_System.IO.Stream.ReadByte()" NewName="A.c9ad2c74c920be1d54c1088616fdf890d..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Stream.ReadByte()" NewName="A.c9ad2c74c920be1d54c1088616fdf890d..cctor()" />
+<Entry OldName="Proxy_System.IO.Stream.ReadByte()" NewName="A.c9ad2c74c920be1d54c1088616fdf890d.Invoke(Object )" />
+<Entry OldName="Proxy_System.IO.Stream.ReadByte()" NewName="A.c9ad2c74c920be1d54c1088616fdf890d.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(String )" NewName="A.cb8bd0eeb1da882f56891c2a70a0772d9..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(String )" NewName="A.cb8bd0eeb1da882f56891c2a70a0772d9..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(String )" NewName="A.cb8bd0eeb1da882f56891c2a70a0772d9.Invoke(String )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(String )" NewName="A.cb8bd0eeb1da882f56891c2a70a0772d9.c7b8ec46dc27282504228334591fdfe7a(String )" />
+<Entry OldName="Proxy_System.AppDomain.add_AssemblyResolve(ResolveEventHandler )" NewName="A.cc9b885381baa19ebbf91be5742e524ca..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.AppDomain.add_AssemblyResolve(ResolveEventHandler )" NewName="A.cc9b885381baa19ebbf91be5742e524ca..cctor()" />
+<Entry OldName="Proxy_System.AppDomain.add_AssemblyResolve(ResolveEventHandler )" NewName="A.cc9b885381baa19ebbf91be5742e524ca.Invoke(Object , ResolveEventHandler )" />
+<Entry OldName="Proxy_System.AppDomain.add_AssemblyResolve(ResolveEventHandler )" NewName="A.cc9b885381baa19ebbf91be5742e524ca.c83dae34efd5c9e4827f854b99b0f8ec5(Object , ResolveEventHandler )" />
+<Entry OldName="Proxy_System.AppDomain.get_CurrentDomain()" NewName="A.c9789f931fad2ce895a2e37589117ce01..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.AppDomain.get_CurrentDomain()" NewName="A.c9789f931fad2ce895a2e37589117ce01..cctor()" />
+<Entry OldName="Proxy_System.AppDomain.get_CurrentDomain()" NewName="A.c9789f931fad2ce895a2e37589117ce01.Invoke()" />
+<Entry OldName="Proxy_System.AppDomain.get_CurrentDomain()" NewName="A.c9789f931fad2ce895a2e37589117ce01.c7b8ec46dc27282504228334591fdfe7a()" />
+<Entry OldName="Proxy_System.AppDomain.add_ResourceResolve(ResolveEventHandler )" NewName="A.c333d408a81dcf5335e93f5abd7a9383f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.AppDomain.add_ResourceResolve(ResolveEventHandler )" NewName="A.c333d408a81dcf5335e93f5abd7a9383f..cctor()" />
+<Entry OldName="Proxy_System.AppDomain.add_ResourceResolve(ResolveEventHandler )" NewName="A.c333d408a81dcf5335e93f5abd7a9383f.Invoke(Object , ResolveEventHandler )" />
+<Entry OldName="Proxy_System.AppDomain.add_ResourceResolve(ResolveEventHandler )" NewName="A.c333d408a81dcf5335e93f5abd7a9383f.c83dae34efd5c9e4827f854b99b0f8ec5(Object , ResolveEventHandler )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(Byte[] )" NewName="A.cf0ac7bac6ffe974b9998b9b2cdd6deb2..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(Byte[] )" NewName="A.cf0ac7bac6ffe974b9998b9b2cdd6deb2..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(Byte[] )" NewName="A.cf0ac7bac6ffe974b9998b9b2cdd6deb2.Invoke(Byte[] )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(Byte[] )" NewName="A.cf0ac7bac6ffe974b9998b9b2cdd6deb2.c7b8ec46dc27282504228334591fdfe7a(Byte[] )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceStream(String )" NewName="A.cbbedf96e4720c3675c11c4cfeb3cb2fa..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceStream(String )" NewName="A.cbbedf96e4720c3675c11c4cfeb3cb2fa..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceStream(String )" NewName="A.cbbedf96e4720c3675c11c4cfeb3cb2fa.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceStream(String )" NewName="A.cbbedf96e4720c3675c11c4cfeb3cb2fa.c83dae34efd5c9e4827f854b99b0f8ec5(Object , String )" />
+<Entry OldName="Proxy_System.String.StartsWith(String )" NewName="A.ca20f0da602eef1dc9a54c002659ddd9f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.StartsWith(String )" NewName="A.ca20f0da602eef1dc9a54c002659ddd9f..cctor()" />
+<Entry OldName="Proxy_System.String.StartsWith(String )" NewName="A.ca20f0da602eef1dc9a54c002659ddd9f.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.String.StartsWith(String )" NewName="A.ca20f0da602eef1dc9a54c002659ddd9f.c83dae34efd5c9e4827f854b99b0f8ec5(Object , String )" />
+<Entry OldName="Proxy_System.ResolveEventArgs.get_Name()" NewName="A.c6f8839d0fac51200467bedf18f79387d..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.ResolveEventArgs.get_Name()" NewName="A.c6f8839d0fac51200467bedf18f79387d..cctor()" />
+<Entry OldName="Proxy_System.ResolveEventArgs.get_Name()" NewName="A.c6f8839d0fac51200467bedf18f79387d.Invoke(Object )" />
+<Entry OldName="Proxy_System.ResolveEventArgs.get_Name()" NewName="A.c6f8839d0fac51200467bedf18f79387d.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="Proxy_System.String.Concat(Object , Object )" NewName="A.c7cc2d480ab0ad0f660fbb38c7246ea4f..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Concat(Object , Object )" NewName="A.c7cc2d480ab0ad0f660fbb38c7246ea4f..cctor()" />
+<Entry OldName="Proxy_System.String.Concat(Object , Object )" NewName="A.c7cc2d480ab0ad0f660fbb38c7246ea4f.Invoke(Object , Object )" />
+<Entry OldName="Proxy_System.String.Concat(Object , Object )" NewName="A.c7cc2d480ab0ad0f660fbb38c7246ea4f.c7b8ec46dc27282504228334591fdfe7a(Object , Object )" />
+<Entry OldName="Proxy_System.String.op_Equality(String , String )" NewName="A.c8492bdf6ee200d5c4eec8919eaf75a75..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.op_Equality(String , String )" NewName="A.c8492bdf6ee200d5c4eec8919eaf75a75..cctor()" />
+<Entry OldName="Proxy_System.String.op_Equality(String , String )" NewName="A.c8492bdf6ee200d5c4eec8919eaf75a75.Invoke(String , String )" />
+<Entry OldName="Proxy_System.String.op_Equality(String , String )" NewName="A.c8492bdf6ee200d5c4eec8919eaf75a75.c7b8ec46dc27282504228334591fdfe7a(String , String )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceNames()" NewName="A.c610134155ac430c1917e131d4f65399e..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceNames()" NewName="A.c610134155ac430c1917e131d4f65399e..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceNames()" NewName="A.c610134155ac430c1917e131d4f65399e.Invoke(Object )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceNames()" NewName="A.c610134155ac430c1917e131d4f65399e.c83dae34efd5c9e4827f854b99b0f8ec5(Object )" />
+<Entry OldName="EssentialBc.Config" NewName="A.c4da6745eb586b6e2fea4d032ed6298a7" />
+<Entry OldName="EssentialBc.EventHandlers+&lt;TimedBroadcast&gt;d__20" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30+cbb1139c1ad01d8aa267587987cf3337a" />
+<Entry OldName="EssentialBc.EventHandlers" NewName="A.c817103644ed0ffae5fb3dcbb1032cc30" />
+<Entry OldName="EssentialBc.Plugin" NewName="A.cf80e651af543e2447b41185f5095fd53" />
+<Entry OldName="C:\Users\doyun\Downloads\BC\Config.cs" NewName="File0" />
+<Entry OldName="C:\Users\doyun\Downloads\BC\EventHandlers.cs" NewName="File1" />
+<Entry OldName="C:\Users\doyun\Downloads\BC\Plugin.cs" NewName="File2" />
+<Assembly Name="EssentialBc"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="EssentialBc.Config" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="get_IsEnabled" Variables="this;" ParamCnt="1" />
+<Method Token="100663300" Name="set_IsEnabled" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663301" Name="get_WarheadStart" Variables="this;" ParamCnt="1" />
+<Method Token="100663302" Name="set_WarheadStart" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663303" Name="get_WarheadStop" Variables="this;" ParamCnt="1" />
+<Method Token="100663304" Name="set_WarheadStop" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663305" Name="get_WarheadDetonated" Variables="this;" ParamCnt="1" />
+<Method Token="100663306" Name="set_WarheadDetonated" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663307" Name="get_MTFspawn" Variables="this;" ParamCnt="1" />
+<Method Token="100663308" Name="set_MTFspawn" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663309" Name="get_CHAOSspawn" Variables="this;" ParamCnt="1" />
+<Method Token="100663310" Name="set_CHAOSspawn" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663311" Name="get_SCPcontained" Variables="this;" ParamCnt="1" />
+<Method Token="100663312" Name="set_SCPcontained" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663313" Name="get_PlayerJoin" Variables="this;" ParamCnt="1" />
+<Method Token="100663314" Name="set_PlayerJoin" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663315" Name="get_SCPLeft" Variables="this;" ParamCnt="1" />
+<Method Token="100663316" Name="set_SCPLeft" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663317" Name="get_LczDecon_15" Variables="this;" ParamCnt="1" />
+<Method Token="100663318" Name="set_LczDecon_15" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663319" Name="get_LczDecon_10" Variables="this;" ParamCnt="1" />
+<Method Token="100663320" Name="set_LczDecon_10" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663321" Name="get_LczDecon_5" Variables="this;" ParamCnt="1" />
+<Method Token="100663322" Name="set_LczDecon_5" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663323" Name="get_LczDecon_1" Variables="this;" ParamCnt="1" />
+<Method Token="100663324" Name="set_LczDecon_1" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663325" Name="get_LczDecon_30s" Variables="this;" ParamCnt="1" />
+<Method Token="100663326" Name="set_LczDecon_30s" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663327" Name="get_LczDecon" Variables="this;" ParamCnt="1" />
+<Method Token="100663328" Name="set_LczDecon" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663329" Name="get_RoundStart" Variables="this;" ParamCnt="1" />
+<Method Token="100663330" Name="set_RoundStart" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663331" Name="get_RoundEnd" Variables="this;" ParamCnt="1" />
+<Method Token="100663332" Name="set_RoundEnd" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663333" Name="get_AllGeneratorsActivated" Variables="this;" ParamCnt="1" />
+<Method Token="100663334" Name="set_AllGeneratorsActivated" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663335" Name="get_GeneratorActivated" Variables="this;" ParamCnt="1" />
+<Method Token="100663336" Name="set_GeneratorActivated" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663337" Name="get_PlayerLastRole" Variables="this;" ParamCnt="1" />
+<Method Token="100663338" Name="set_PlayerLastRole" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663339" Name="get_CuffedPlayerKilled" Variables="this;" ParamCnt="1" />
+<Method Token="100663340" Name="set_CuffedPlayerKilled" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663341" Name="get_Scplist" Variables="this;" ParamCnt="1" />
+<Method Token="100663342" Name="set_Scplist" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663343" Name="get_TranslatedRoles" Variables="this;" ParamCnt="1" />
+<Method Token="100663344" Name="set_TranslatedRoles" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108865" Name="&lt;IsEnabled&gt;k__BackingField" />
+<Field Token="67108866" Name="&lt;WarheadStart&gt;k__BackingField" />
+<Field Token="67108867" Name="&lt;WarheadStop&gt;k__BackingField" />
+<Field Token="67108868" Name="&lt;WarheadDetonated&gt;k__BackingField" />
+<Field Token="67108869" Name="&lt;MTFspawn&gt;k__BackingField" />
+<Field Token="67108870" Name="&lt;CHAOSspawn&gt;k__BackingField" />
+<Field Token="67108871" Name="&lt;SCPcontained&gt;k__BackingField" />
+<Field Token="67108872" Name="&lt;PlayerJoin&gt;k__BackingField" />
+<Field Token="67108873" Name="&lt;SCPLeft&gt;k__BackingField" />
+<Field Token="67108874" Name="&lt;LczDecon_15&gt;k__BackingField" />
+<Field Token="67108875" Name="&lt;LczDecon_10&gt;k__BackingField" />
+<Field Token="67108876" Name="&lt;LczDecon_5&gt;k__BackingField" />
+<Field Token="67108877" Name="&lt;LczDecon_1&gt;k__BackingField" />
+<Field Token="67108878" Name="&lt;LczDecon_30s&gt;k__BackingField" />
+<Field Token="67108879" Name="&lt;LczDecon&gt;k__BackingField" />
+<Field Token="67108880" Name="&lt;RoundStart&gt;k__BackingField" />
+<Field Token="67108881" Name="&lt;RoundEnd&gt;k__BackingField" />
+<Field Token="67108882" Name="&lt;AllGeneratorsActivated&gt;k__BackingField" />
+<Field Token="67108883" Name="&lt;GeneratorActivated&gt;k__BackingField" />
+<Field Token="67108884" Name="&lt;PlayerLastRole&gt;k__BackingField" />
+<Field Token="67108885" Name="&lt;CuffedPlayerKilled&gt;k__BackingField" />
+<Field Token="67108886" Name="&lt;Scplist&gt;k__BackingField" />
+<Field Token="67108887" Name="&lt;TranslatedRoles&gt;k__BackingField" />
+<Field Token="67108888" Name="TimedBroadcasts" />
+<Type Token="33554436" Name="EssentialBc.EventHandlers" />
+<Method Token="100663346" Name=".ctor" Variables="this;plugin;" ParamCnt="2" />
+<Method Token="100663347" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663348" Name="OnWarheadStarting" Variables="this;ev;V_0;" ParamCnt="2" />
+<Method Token="100663349" Name="OnWarheadStopping" Variables="this;ev;V_0;" ParamCnt="2" />
+<Method Token="100663350" Name="OnWarheadDetonated" Variables="this;" ParamCnt="1" />
+<Method Token="100663351" Name="OnMTFAnnounce" Variables="this;ev;V_0;" ParamCnt="2" />
+<Method Token="100663352" Name="OnRespawningTeam" Variables="this;ev;V_0;V_1;V_2;ply;V_4;V_5;ply;" ParamCnt="2" />
+<Method Token="100663353" Name="OnContainingSCP" Variables="this;ev;name;" ParamCnt="2" />
+<Method Token="100663354" Name="OnDied" Variables="this;ev;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663355" Name="OnVerified" Variables="this;ev;" ParamCnt="2" />
+<Method Token="100663356" Name="OnLeft" Variables="this;ev;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663357" Name="OnAnnouncingDecontamination" Variables="this;ev;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663358" Name="OnDecontamination" Variables="this;ev;" ParamCnt="2" />
+<Method Token="100663359" Name="OnRoundStart" Variables="this;" ParamCnt="1" />
+<Method Token="100663360" Name="OnRoundEnded" Variables="this;ev;" ParamCnt="2" />
+<Method Token="100663361" Name="OnGeneratorActivated" Variables="this;ev;curgen;V_1;" ParamCnt="2" />
+<Method Token="100663362" Name="OnSpawning" Variables="this;ev;scpList;count;V_2;V_3;player;V_5;V_6;V_7;" ParamCnt="2" />
+<Method Token="100663363" Name="OnRestarting" Variables="this;V_0;coroutine;" ParamCnt="1" />
+<Method Token="100663364" Name="TimedBroadcast" Variables="this;" ParamCnt="1" />
+<Field Token="67108889" Name="plugin" />
+<Field Token="67108890" Name="coroutines" />
+<Field Token="67108891" Name="SCPsList" />
+<Type Token="33554437" Name="EssentialBc.Plugin" />
+<Method Token="100663365" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663366" Name="get_Name" Variables="this;" ParamCnt="1" />
+<Method Token="100663367" Name="get_Author" Variables="this;" ParamCnt="1" />
+<Method Token="100663368" Name="get_Prefix" Variables="this;" ParamCnt="1" />
+<Method Token="100663369" Name="OnEnabled" Variables="this;" ParamCnt="1" />
+<Method Token="100663370" Name="OnDisabled" Variables="this;" ParamCnt="1" />
+<Field Token="67108892" Name="&lt;Name&gt;k__BackingField" />
+<Field Token="67108893" Name="&lt;Author&gt;k__BackingField" />
+<Field Token="67108894" Name="&lt;Prefix&gt;k__BackingField" />
+<Field Token="67108895" Name="instance" />
+<Field Token="67108896" Name="EventHandlers" />
+<Type Token="33554439" Name="EssentialBc.EventHandlers/&lt;TimedBroadcast&gt;d__20" />
+<Method Token="100663377" Name=".ctor" Variables="this;&lt;&gt;1__state;" ParamCnt="2" />
+<Method Token="100663378" Name="System.IDisposable.Dispose" Variables="this;" ParamCnt="1" />
+<Method Token="100663379" Name="MoveNext" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663380" Name="System.Collections.Generic.IEnumerator&lt;System.Single&gt;.get_Current" Variables="this;" ParamCnt="1" />
+<Method Token="100663381" Name="System.Collections.IEnumerator.Reset" Variables="this;" ParamCnt="1" />
+<Method Token="100663382" Name="System.Collections.IEnumerator.get_Current" Variables="this;" ParamCnt="1" />
+<Field Token="67108898" Name="&lt;&gt;1__state" />
+<Field Token="67108899" Name="&lt;&gt;2__current" />
+<Field Token="67108900" Name="&lt;&gt;4__this" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663345" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly><File OldName="C:\Users\doyun\Downloads\BC\Config.cs" NewName="File0" />
+<File OldName="C:\Users\doyun\Downloads\BC\EventHandlers.cs" NewName="File1" />
+<File OldName="C:\Users\doyun\Downloads\BC\Plugin.cs" NewName="File2" />
+</Mappings>
